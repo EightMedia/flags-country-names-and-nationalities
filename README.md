@@ -1,4 +1,4 @@
-# Flags, Country names and Nationality
+# Flags, Country names and Nationalities
 All flags, countries they belong to and what the nationality is called in:
 - Dutch
 
