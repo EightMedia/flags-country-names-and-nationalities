@@ -1,22 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="336px" viewBox="0 0 512 336" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>zm</title>
-    <defs>
-        <rect id="path-1" x="0" y="0" width="512" height="336" rx="10"></rect>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="zm">
-            <mask id="mask-2" fill="white">
-                <use xlink:href="#path-1"></use>
-            </mask>
-            <g id="Mask"></g>
-            <g mask="url(#mask-2)" fill-rule="nonzero">
-                <rect id="Rectangle" fill="#73AF00" x="0" y="0" width="512" height="336"></rect>
-                <path d="M490.668,104.476 L442.668,104.476 C442.668,95.64 435.504,88.476 426.668,88.476 C417.832,88.476 410.668,95.64 410.668,104.476 L362.668,104.476 C362.668,113.312 370.365,120.476 379.201,120.476 L378.668,120.476 C378.668,129.312 385.83,136.476 394.668,136.476 C394.668,145.312 401.83,152.476 410.668,152.476 L442.668,152.476 C451.504,152.476 458.668,145.312 458.668,136.476 C467.504,136.476 474.668,129.312 474.668,120.476 L474.135,120.476 C482.972,120.476 490.668,113.312 490.668,104.476 Z" id="Path" fill="#FFE15A"></path>
-                <rect id="Rectangle" fill="#FF4B55" x="341.337" y="164.994" width="56.888" height="170.663"></rect>
-                <rect id="Rectangle" fill="#FFE15A" x="455" y="165" width="56.888" height="170.663"></rect>
-                <rect id="Rectangle" fill="#464655" x="398.225" y="164.994" width="56.888" height="170.663"></rect>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st2{mask:url(#mask-2_1_);}
+	.st3{fill:#73AF00;}
+	.st4{fill:#FFE15A;}
+	.st5{fill:#FF4B55;}
+	.st6{fill:#464655;}
+</style>
+<g id="Page-1">
+	<g id="zm">
+		<g id="Mask">
+		</g>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="88" width="512" height="336">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="0" y="88" width="512" height="336" id="mask-2_1_">
+			<g class="st0">
+				<path id="path-1_1_" class="st1" d="M10,88h492c5.5,0,10,4.5,10,10v316c0,5.5-4.5,10-10,10H10c-5.5,0-10-4.5-10-10V98
+					C0,92.5,4.5,88,10,88z"/>
+			</g>
+		</mask>
+		<g class="st2">
+			<rect id="Rectangle" y="88" class="st3" width="512" height="336"/>
+			<path id="Path" class="st4" d="M490.7,192.5h-48c0-8.8-7.2-16-16-16s-16,7.2-16,16h-48c0,8.8,7.7,16,16.5,16h-0.5
+				c0,8.8,7.2,16,16,16c0,8.8,7.2,16,16,16h32c8.8,0,16-7.2,16-16c8.8,0,16-7.2,16-16h-0.5C483,208.5,490.7,201.3,490.7,192.5z"/>
+			<rect id="Rectangle_1_" x="341.3" y="253" class="st5" width="56.9" height="170.7"/>
+			<rect id="Rectangle_2_" x="455" y="253" class="st4" width="56.9" height="170.7"/>
+			<rect id="Rectangle_3_" x="398.2" y="253" class="st6" width="56.9" height="170.7"/>
+		</g>
+	</g>
+</g>
 </svg>
