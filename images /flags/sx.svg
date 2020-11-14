@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st2{mask:url(#mask-2_1_);}
+	.st3{fill:#41479B;}
+	.st4{fill:#FF4B55;}
+	.st5{fill:#FFFFFF;}
+	.st6{fill:#FFE15A;}
+	.st7{fill:#8DCCFF;}
+	.st8{fill:#F3F3F3;}
+</style>
+<g id="Page-1">
+	<g id="sx">
+		<g id="Mask">
+		</g>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="88.3" width="512" height="335.3">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="0" y="88.3" width="512" height="335.3" id="mask-2_1_">
+			<g class="st0">
+				<path id="path-1_1_" class="st1" d="M10,88h492c5.5,0,10,4.5,10,10v316c0,5.5-4.5,10-10,10H10c-5.5,0-10-4.5-10-10V98
+					C0,92.5,4.5,88,10,88z"/>
+			</g>
+		</mask>
+		<g class="st2">
+			<rect id="Rectangle" y="88.3" class="st3" width="512" height="335.3"/>
+			<polygon id="Path" class="st4" points="512,88.3 512,252.1 0,256.2 0,88.3 			"/>
+			<polygon id="Path_1_" class="st5" points="256,254.4 0,423.7 0,88.3 			"/>
+			<g id="shield" transform="translate(59.428000, 107.001000)">
+				<path id="Path_2_" class="st6" d="M0.2,152c-0.1,1.5-0.2,3-0.2,4.6C0,189.4,26.6,216,59.4,216s59.4-26.6,59.4-59.4
+					c0-1.5-0.1-3.1-0.2-4.6H0.2L0.2,152z"/>
+				<circle id="Oval" class="st6" cx="59.4" cy="106.3" r="18.3"/>
+				<path id="Path_3_" class="st4" d="M18.3,101.7v59.4c0,31.5,41.1,41.1,41.1,41.1s41.1-9.6,41.1-41.1v-59.4H18.3L18.3,101.7z"/>
+				<path id="Path_4_" class="st7" d="M59.4,183.1c-7.6-2.7-22.9-9.8-22.9-22V120h45.7v41.1C82.3,173.4,67,180.4,59.4,183.1z"/>
+				<polygon id="Path_5_" class="st8" points="68.6,142.9 68.6,133.7 59.4,129.1 50.3,133.7 50.3,142.9 45.7,147.4 45.7,165.7 
+					73.1,165.7 73.1,147.4 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

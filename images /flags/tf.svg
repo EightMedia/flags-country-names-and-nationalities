@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#D8D8D8;}
+	.st1{filter:url(#Adobe_OpacityMaskFilter);}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st3{mask:url(#mask-2_1_);}
+	.st4{fill:#41479B;}
+	.st5{fill:#FFFFFF;}
+	.st6{fill:#FF4B55;}
+</style>
+<g id="Page-1">
+	<g id="tf">
+		<g id="Mask">
+			<path id="path-1_1_" class="st0" d="M10,88h492c5.5,0,10,4.5,10,10v316c0,5.5-4.5,10-10,10H10c-5.5,0-10-4.5-10-10V98
+				C0,92.5,4.5,88,10,88z"/>
+		</g>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="88" width="512" height="336">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="0" y="88" width="512" height="336" id="mask-2_1_">
+			<g class="st1">
+				<path id="path-1_2_" class="st2" d="M10,88h492c5.5,0,10,4.5,10,10v316c0,5.5-4.5,10-10,10H10c-5.5,0-10-4.5-10-10V98
+					C0,92.5,4.5,88,10,88z"/>
+			</g>
+		</mask>
+		<g class="st3">
+			<polygon id="Path" class="st4" points="0,88 512,88 512,424 0,424 			"/>
+			<polygon id="Path_1_" class="st5" points="0,88 256.5,88 256.5,258.2 0,258.2 			"/>
+			<polygon id="Path_2_" class="st6" points="161.2,88 242.9,88 242.9,246.9 161.2,246.9 			"/>
+			<polygon id="Path_3_" class="st4" points="0,88 81.7,88 81.7,246.9 0,246.9 			"/>
+			<polygon id="Path_4_" class="st5" points="81.7,88 163.4,88 163.4,246.9 81.7,246.9 			"/>
+			<path id="Shape" class="st5" d="M329.1,224.2h113.5l-11.3,22.7h-34v11.3h22.7l-11.3,22.7h-11.3v34h-22.7v-68.1h-34L329.1,224.2z
+				 M419.9,280.9l22.7,34h-45.4L419.9,280.9z M351.8,280.9l22.7,34h-45.4L351.8,280.9z M385.9,349l-22.7-34h45.4L385.9,349z
+				 M453.9,269.6c-6.8,0-11.3-4.5-11.3-11.3c0-6.8,4.5-11.3,11.3-11.3s11.3,4.5,11.3,11.3C465.3,265,460.8,269.6,453.9,269.6z
+				 M317.8,269.6c-6.8,0-11.3-4.5-11.3-11.3c0-6.8,4.5-11.3,11.3-11.3s11.3,4.5,11.3,11.3C329.1,265,324.6,269.6,317.8,269.6z
+				 M340.5,360.4c-6.8,0-11.3-4.5-11.3-11.3c0-6.8,4.5-11.3,11.3-11.3s11.3,4.5,11.3,11.3C351.8,355.8,347.3,360.4,340.5,360.4z
+				 M431.2,360.4c-6.8,0-11.3-4.5-11.3-11.3c0-6.8,4.5-11.3,11.3-11.3s11.3,4.5,11.3,11.3C442.6,355.8,438.1,360.4,431.2,360.4z
+				 M385.9,383.1c-6.8,0-11.3-4.5-11.3-11.3c0-6.8,4.5-11.3,11.3-11.3s11.3,4.5,11.3,11.3C397.2,378.5,392.7,383.1,385.9,383.1z"/>
+		</g>
+	</g>
+</g>
+</svg>
