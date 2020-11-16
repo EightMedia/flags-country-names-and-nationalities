@@ -13,7 +13,10 @@ Countrylist based on [ISO 3166][https://www.iso.org/iso-3166-country-codes.html]
 [Dutch][https://publicaties.rvig.nl/Landelijke_tabellen]
 
 ### Flags
-https://catamphetamine.gitlab.io/country-flag-icons/3x2/index.html
+[source #1][https://catamphetamine.gitlab.io/country-flag-icons/3x2/index.html]
+
+#### Colours
+[Scheme color][https://www.schemecolor.com/color-schemes-of-all-country-flags.php]
 
 ### Misc
 [British passports][https://www.whatpassport.com/]
