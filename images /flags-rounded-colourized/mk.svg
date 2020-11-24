@@ -1,28 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="336px" viewBox="0 0 512 336" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>mk</title>
-    <defs>
-        <rect id="path-1" x="0" y="0" width="512" height="336" rx="10"></rect>
-    </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="mk">
-            <mask id="mask-2" fill="white">
-                <use xlink:href="#path-1"></use>
-            </mask>
-            <g id="Mask"></g>
-            <g mask="url(#mask-2)" fill-rule="nonzero">
-                <rect id="Rectangle" fill="#FFE15A" x="0" y="0.00294736842" width="512" height="335.348632"></rect>
-                <polygon id="Path" fill="#FF4B55" points="383.875 335.343719 256 164.026947 282.827 335.343719"></polygon>
-                <polygon id="Path" fill="#FF4B55" points="133.565 -1.42108547e-14 256 164.026947 230.314 -1.42108547e-14"></polygon>
-                <polygon id="Path" fill="#FF4B55" points="229.171 335.343719 256 164.026947 128.124 335.343719"></polygon>
-                <polygon id="Path" fill="#FF4B55" points="0 -1.42108547e-14 0 125.33193 256 164.026947 28.333 -1.42108547e-14"></polygon>
-                <polygon id="Path" fill="#FF4B55" points="0 335.343719 18.212 335.343719 256 164.026947 0 202.72"></polygon>
-                <polygon id="Path" fill="#FF4B55" points="256 164.026947 512 125.33193 512 -1.42108547e-14 483.669 -1.42108547e-14"></polygon>
-                <polygon id="Path" fill="#FF4B55" points="281.686 -1.42108547e-14 256 164.026947 378.434 -1.42108547e-14"></polygon>
-                <polygon id="Path" fill="#FF4B55" points="512 335.343719 512 202.720982 256 164.026947 493.787 335.343719"></polygon>
-                <circle id="Oval" fill="#FF4B55" cx="256.359" cy="168.359" r="59.359"></circle>
-                <circle id="Oval" fill="#FFE15A" cx="256.359" cy="168.359" r="44.522"></circle>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st2{mask:url(#mask-2_1_);}
+	.st3{fill:#FFE15A;}
+	.st4{fill:#FF4B55;}
+</style>
+<g id="Page-1">
+	<g id="mk">
+		<g id="Mask">
+		</g>
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="88" width="512" height="335.4">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="0" y="88" width="512" height="335.4" id="mask-2_1_">
+			<g class="st0">
+				<path id="path-1_1_" class="st1" d="M10,88h492c5.5,0,10,4.5,10,10v316c0,5.5-4.5,10-10,10H10c-5.5,0-10-4.5-10-10V98
+					C0,92.5,4.5,88,10,88z"/>
+			</g>
+		</mask>
+		<g class="st2">
+			<rect id="Rectangle" y="88" class="st3" width="512" height="335.3"/>
+			<polygon id="Path" class="st4" points="383.9,423.3 256,252 282.8,423.3 			"/>
+			<polygon id="Path_1_" class="st4" points="133.6,88 256,252 230.3,88 			"/>
+			<polygon id="Path_2_" class="st4" points="229.2,423.3 256,252 128.1,423.3 			"/>
+			<polygon id="Path_3_" class="st4" points="0,88 0,213.3 256,252 28.3,88 			"/>
+			<polygon id="Path_4_" class="st4" points="0,423.3 18.2,423.3 256,252 0,290.7 			"/>
+			<polygon id="Path_5_" class="st4" points="256,252 512,213.3 512,88 483.7,88 			"/>
+			<polygon id="Path_6_" class="st4" points="281.7,88 256,252 378.4,88 			"/>
+			<polygon id="Path_7_" class="st4" points="512,423.3 512,290.7 256,252 493.8,423.3 			"/>
+			<circle id="Oval" class="st4" cx="256.4" cy="256.4" r="59.4"/>
+			<circle id="Oval_1_" class="st3" cx="256.4" cy="256.4" r="44.5"/>
+		</g>
+	</g>
+</g>
 </svg>
