@@ -10,7 +10,7 @@
         "name": "Åland Islands",
         "alpha2": "AX",
         "countryCode": "248",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Fins (Åland)"
     }},
     {
@@ -87,7 +87,7 @@
         "name": "Aruba",
         "alpha2": "AW",
         "countryCode": "533",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Nederlands (Aruba)"
     }},
     {
@@ -101,7 +101,7 @@
         "name": "Austria",
         "alpha2": "AT",
         "countryCode": "040",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Oostenrijks"
     }},
     {
@@ -150,7 +150,7 @@
         "name": "Belgium",
         "alpha2": "BE",
         "countryCode": "056",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Belgisch"
     }},
     {
@@ -192,8 +192,8 @@
         "name": "Bonaire, Sint Eustatius and Saba",
         "alpha2": "BQ",
         "countryCode": "535",
-        "EER": "no",
-        "nationality": {"dutch": "Nederlands"
+        "EER": "yes",
+        "nationality": {"dutch": "Nederlands (Bonaire, Sint Eustatius en Saba)"
     }},
     {
         "name": "Bosnia and Herzegovina",
@@ -241,7 +241,7 @@
         "name": "Bulgaria",
         "alpha2": "BG",
         "countryCode": "100",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Bulgaars"
     }},
     {
@@ -388,7 +388,7 @@
         "name": "Croatia",
         "alpha2": "HR",
         "countryCode": "191",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Kroatisch"
     }},
     {
@@ -402,28 +402,28 @@
         "name": "Curaçao",
         "alpha2": "CW",
         "countryCode": "531",
-        "EER": "no",
-        "nationality": {"dutch": "Nederlands (Curaçao"
+        "EER": "yes",
+        "nationality": {"dutch": "Nederlands (Curaçao)"
     }},
     {
         "name": "Cyprus",
         "alpha2": "CY",
         "countryCode": "196",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Cyprisch"
     }},
     {
         "name": "Czechia",
         "alpha2": "CZ",
         "countryCode": "203",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Tsjechisch"
     }},
     {
         "name": "Denmark",
         "alpha2": "DK",
         "countryCode": "208",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Deens"
     }},
     {
@@ -486,7 +486,7 @@
         "name": "Estonia",
         "alpha2": "EE",
         "countryCode": "233",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Ests"
     }},
     {
@@ -528,14 +528,14 @@
         "name": "Finland",
         "alpha2": "FI",
         "countryCode": "246",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Fins"
     }},
     {
         "name": "France",
         "alpha2": "FR",
         "countryCode": "250",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Frans"
     }},
     {
@@ -584,7 +584,7 @@
         "name": "Germany",
         "alpha2": "DE",
         "countryCode": "276",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Duits"
     }},
     {
@@ -605,7 +605,7 @@
         "name": "Greece",
         "alpha2": "GR",
         "countryCode": "300",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Grieks"
     }},
     {
@@ -710,14 +710,14 @@
         "name": "Hungary",
         "alpha2": "HU",
         "countryCode": "348",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Hongaars"
     }},
     {
         "name": "Iceland",
         "alpha2": "IS",
         "countryCode": "352",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "IJslands"
     }},
     {
@@ -752,7 +752,7 @@
         "name": "Ireland",
         "alpha2": "IE",
         "countryCode": "372",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Iers"
     }},
     {
@@ -773,7 +773,7 @@
         "name": "Italy",
         "alpha2": "IT",
         "countryCode": "380",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Italiaans"
     }},
     {
@@ -864,7 +864,7 @@
         "name": "Latvia",
         "alpha2": "LV",
         "countryCode": "428",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Lets"
     }},
     {
@@ -899,21 +899,21 @@
         "name": "Liechtenstein",
         "alpha2": "LI",
         "countryCode": "438",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Liechtensteins"
     }},
     {
         "name": "Lithuania",
         "alpha2": "LT",
         "countryCode": "440",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Litouws"
     }},
     {
         "name": "Luxembourg",
         "alpha2": "LU",
         "countryCode": "442",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Luxemburgs"
     }},
     {
@@ -962,7 +962,7 @@
         "name": "Malta",
         "alpha2": "MT",
         "countryCode": "470",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Maltees"
     }},
     {
@@ -1095,7 +1095,7 @@
         "name": "Netherlands",
         "alpha2": "NL",
         "countryCode": "528",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Nederlands"
     }},
     {
@@ -1165,7 +1165,7 @@
         "name": "Norway",
         "alpha2": "NO",
         "countryCode": "578",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Noors"
     }},
     {
@@ -1242,14 +1242,14 @@
         "name": "Poland",
         "alpha2": "PL",
         "countryCode": "616",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Pools"
     }},
     {
         "name": "Portugal",
         "alpha2": "PT",
         "countryCode": "620",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Portugees"
     }},
     {
@@ -1277,7 +1277,7 @@
         "name": "Romania",
         "alpha2": "RO",
         "countryCode": "642",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Roemeens"
     }},
     {
@@ -1417,12 +1417,12 @@
         "name": "Slovakia",
         "alpha2": "SK",
         "countryCode": "703",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Slowaaks"
     }},
     {
         "name": "Slovenia",
-        "alpha2": "SI",
+        "alpha2": "yes",
         "countryCode": "705",
         "EER": "no",
         "nationality": {"dutch": "Sloveens"
@@ -1466,7 +1466,7 @@
         "name": "Spain",
         "alpha2": "ES",
         "countryCode": "724",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Spaans"
     }},
     {
@@ -1487,28 +1487,28 @@
         "name": "Suriname",
         "alpha2": "SR",
         "countryCode": "740",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Surinaams"
     }},
     {
         "name": "Svalbard and Jan Mayen",
         "alpha2": "SJ",
         "countryCode": "744",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Noors (Spitsbergen en Jan Mayen)"
     }},
     {
         "name": "Sweden",
         "alpha2": "SE",
         "countryCode": "752",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Zweeds"
     }},
     {
         "name": "Switzerland",
         "alpha2": "CH",
         "countryCode": "756",
-        "EER": "no",
+        "EER": "yes",
         "nationality": {"dutch": "Zwitsers"
     }},
     {
