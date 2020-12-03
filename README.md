@@ -6,12 +6,12 @@ All flags, countries they belong to and what the nationality is called in:
 ---
 
 ## Hosted flags
-https://flags-country-names-and-nationalities-with-eer.netlify.app/country-list.json
-https://flags-country-names-and-nationalities-with-eer.netlify.app/images/flags/<countrycode>.svg
-https://flags-country-names-and-nationalities-with-eer.netlify.app/images/flags-rounded-colourized/<countrycode>.svg
+* https://flags-country-names-and-nationalities-with-eer.netlify.app/country-list.json
+* https://flags-country-names-and-nationalities-with-eer.netlify.app/images/flags/<countrycode>.svg
+* https://flags-country-names-and-nationalities-with-eer.netlify.app/images/flags-rounded-colourized/<countrycode>.svg
 
 ## NPM
-https://www.npmjs.com/package/@eightmedia/flags-country-names-and-nationalities-with-eer
+* https://www.npmjs.com/package/@eightmedia/flags-country-names-and-nationalities-with-eer
 
 ---
 
