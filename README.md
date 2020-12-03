@@ -3,7 +3,17 @@ All flags, countries they belong to and what the nationality is called in:
 - Dutch
 
 
+---
 
+## Hosted flags
+https://flags-country-names-and-nationalities-with-eer.netlify.app/country-list.json
+https://flags-country-names-and-nationalities-with-eer.netlify.app/images/flags/<countrycode>.svg
+https://flags-country-names-and-nationalities-with-eer.netlify.app/images/flags-rounded-colourized/<countrycode>.svg
+
+## NPM
+https://www.npmjs.com/package/@eightmedia/flags-country-names-and-nationalities-with-eer
+
+---
 
 ## Resources
 ### Countries
@@ -21,3 +31,4 @@ Countrylist based on [ISO 3166][https://www.iso.org/iso-3166-country-codes.html]
 
 ### Misc
 [British passports][https://www.whatpassport.com/]
+
