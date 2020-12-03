@@ -1,6 +1,6 @@
 {
   "name": "@eightmedia/flags-country-names-and-nationalities-with-eer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "All flags, countries they belong to and what the nationality is called in: - Dutch",
   "main": "country-list.json",
   "scripts": {
