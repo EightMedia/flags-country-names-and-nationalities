@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#41479B;}
+	.st1{fill:#F5F5F5;}
+	.st2{fill:#FF4B55;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#FFCE00;}
+	.st5{fill:#39B200;}
+	.st6{fill:#9B9B9B;}
+	.st7{fill:#757575;}
+	.st8{fill:#C6B56F;}
+	.st9{fill:#A54A00;}
+	.st10{fill:#0049FF;}
+	.st11{fill:#0041F9;}
+	.st12{fill:#F7D71E;}
+	.st13{fill:#CEC851;}
+	.st14{fill:#7C0B29;}
+</style>
+<g>
+	<path class="st0" d="M503.2,423.7H8.8c-4.9,0-8.8-4-8.8-8.8V97.1c0-4.9,4-8.8,8.8-8.8h494.3c4.9,0,8.8,4,8.8,8.8v317.8
+		C512,419.8,508,423.7,503.2,423.7z"/>
+	<path class="st1" d="M247.2,88.3h-15.3l-81.8,53.6V88.3h-44.1v53.6L24.2,88.3H8.8c-4.9,0-8.8,4-8.8,8.8v7l70.2,46H0v44.1h70.2
+		L0,240.2v7c0,4.9,4,8.8,8.8,8.8h15.3l81.8-53.6V256h44.1v-53.6l81.8,53.6h15.3c4.9,0,8.8-4,8.8-8.8v-7l-70.2-46H256v-44.1h-70.2
+		l70.2-46v-7C256,92.2,252,88.3,247.2,88.3z"/>
+	<g>
+		<polygon class="st2" points="256,158.9 141.2,158.9 141.2,88.3 114.8,88.3 114.8,158.9 0,158.9 0,185.4 114.8,185.4 114.8,256 
+			141.2,256 141.2,185.4 256,185.4 		"/>
+		<path class="st2" d="M97.1,150.1L4.2,89.8C1.7,91.3,0,94,0,97.1v0.5l80.9,52.5L97.1,150.1L97.1,150.1z"/>
+		<path class="st2" d="M166.3,150.1l88.4-57.4c-1.5-2.6-4.2-4.4-7.5-4.4h-1.9l-95.2,61.8H166.3z"/>
+		<path class="st2" d="M89.5,194.2L1.3,251.5c1.5,2.7,4.3,4.5,7.6,4.5h1.7l95.2-61.8L89.5,194.2L89.5,194.2z"/>
+		<path class="st2" d="M255.9,247.9l-82.7-53.7H157l93.9,60.9C253.7,253.8,255.6,251.1,255.9,247.9z"/>
+	</g>
+</g>
+<g>
+	<ellipse class="st3" cx="443.4" cy="319" rx="29" ry="43.5"/>
+	<ellipse class="st4" cx="406.9" cy="403.1" rx="22" ry="9.3"/>
+	<ellipse class="st4" cx="364" cy="403.1" rx="22" ry="9.3"/>
+	<polygon class="st5" points="342,275.5 385.4,362.4 428.9,275.5 	"/>
+	<ellipse class="st6" cx="327.5" cy="319" rx="29" ry="43.5"/>
+	<path class="st7" d="M371,261l-14.5,14.5h57.9L399.9,261l14.5-43.5c0,0-13-29-29-29s-29,29-29,29L371,261z"/>
+	<circle class="st8" cx="385.4" cy="152.4" r="29"/>
+	<circle class="st9" cx="386" cy="174.1" r="29"/>
+	<circle class="st3" cx="443.4" cy="203.1" r="29"/>
+	<circle class="st10" cx="342.2" cy="232.1" r="29"/>
+	<circle class="st11" cx="429.8" cy="232.1" r="29"/>
+	<circle class="st12" cx="386" cy="319" r="29"/>
+	<circle class="st13" cx="457.9" cy="275.5" r="29"/>
+	<circle class="st3" cx="385.4" cy="374.9" r="29"/>
+	<path class="st14" d="M371,221.1l14.5-3.5l14.5,3.5c0,7.5-14.5,11-14.5,11S371,228.6,371,221.1z"/>
+	<circle class="st3" cx="327.5" cy="202.8" r="29"/>
+</g>
+</svg>
