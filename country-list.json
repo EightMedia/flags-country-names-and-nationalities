@@ -1,1746 +1,1751 @@
 [
-    {
-        "name": "Afghanistan",
-        "alpha2": "AF",
-        "countryCode": "004",
-        "EER": "no",
-        "nationality": {"dutch": "Afghaans"
-    }},
-    {
-        "name": "Åland Islands",
-        "alpha2": "AX",
-        "countryCode": "248",
-        "EER": "yes",
-        "nationality": {"dutch": "Fins (Åland)"
-    }},
-    {
-        "name": "Albania",
-        "alpha2": "AL",
-        "countryCode": "008",
-        "EER": "no",
-        "nationality": {"dutch": "Albanees"
-    }},
-    {
-        "name": "Algeria",
-        "alpha2": "DZ",
-        "countryCode": "012",
-        "EER": "no",
-        "nationality": {"dutch": "Algerijns"
-    }},
-    {
-        "name": "American Samoa",
-        "alpha2": "AS",
-        "countryCode": "016",
-        "EER": "no",
-        "nationality": {"dutch": "Amerikaans (Amerikaans Samoa)"
-    }},
-    {
-        "name": "Andorra",
-        "alpha2": "AD",
-        "countryCode": "020",
-        "EER": "no",
-        "nationality": {"dutch": "Andorrees"
-    }},
-    {
-        "name": "Angola",
-        "alpha2": "AO",
-        "countryCode": "024",
-        "EER": "no",
-        "nationality": {"dutch": "Angolees"
-    }},
-    {
-        "name": "Anguilla",
-        "alpha2": "AI",
-        "countryCode": "660",
-        "EER": "no",
-        "nationality": {"dutch": "Brits (Anguilla)"
-    }},
-    {
-        "name": "Antarctica",
-        "alpha2": "AQ",
-        "countryCode": "010",
-        "EER": "no",
-        "nationality": {"dutch": "geen (Antarctica)"
-    }},
-    {
-        "name": "Antigua and Barbuda",
-        "alpha2": "AG",
-        "countryCode": "028",
-        "EER": "no",
-        "nationality": {"dutch": "Antiguaans"
-    }},
-    {
-        "name": "Argentina",
-        "alpha2": "AR",
-        "countryCode": "032",
-        "EER": "no",
-        "nationality": {"dutch": "Argentijns"
-    }},
-    {
-        "name": "Armenia",
-        "alpha2": "AM",
-        "countryCode": "051",
-        "EER": "no",
-        "nationality": {"dutch": "Armeens"
-    }},
-    {
-        "name": "Aruba",
-        "alpha2": "AW",
-        "countryCode": "533",
-        "EER": "yes",
-        "nationality": {"dutch": "Nederlands (Aruba)"
-    }},
-    {
-        "name": "Australia",
-        "alpha2": "AU",
-        "countryCode": "036",
-        "EER": "no",
-        "nationality": {"dutch": "Australisch"
-    }},
-    {
-        "name": "Austria",
-        "alpha2": "AT",
-        "countryCode": "040",
-        "EER": "yes",
-        "nationality": {"dutch": "Oostenrijks"
-    }},
-    {
-        "name": "Azerbaijan",
-        "alpha2": "AZ",
-        "countryCode": "031",
-        "EER": "no",
-        "nationality": {"dutch": "Azerbeidzjaans"
-    }},
-    {
-        "name": "Bahamas",
-        "alpha2": "BS",
-        "countryCode": "044",
-        "EER": "no",
-        "nationality": {"dutch": "Bahamaans"
-    }},
-    {
-        "name": "Bahrain",
-        "alpha2": "BH",
-        "countryCode": "048",
-        "EER": "no",
-        "nationality": {"dutch": "Bahreins"
-    }},
-    {
-        "name": "Bangladesh",
-        "alpha2": "BD",
-        "countryCode": "050",
-        "EER": "no",
-        "nationality": {"dutch": "Myanmarees"
-    }},
-    {
-        "name": "Barbados",
-        "alpha2": "BB",
-        "countryCode": "052",
-        "EER": "no",
-        "nationality": {"dutch": "Barbadaans"
-    }},
-    {
-        "name": "Belarus",
-        "alpha2": "BY",
-        "countryCode": "112",
-        "EER": "no",
-        "nationality": {"dutch": "Wit-Russisch"
-    }},
-    {
-        "name": "Belgium",
-        "alpha2": "BE",
-        "countryCode": "056",
-        "EER": "yes",
-        "nationality": {"dutch": "Belgisch"
-    }},
-    {
-        "name": "Belize",
-        "alpha2": "BZ",
-        "countryCode": "084",
-        "EER": "no",
-        "nationality": {"dutch": "Belizaans"
-    }},
-    {
-        "name": "Benin",
-        "alpha2": "BJ",
-        "countryCode": "204",
-        "EER": "no",
-        "nationality": {"dutch": "Benins"
-    }},
-    {
-        "name": "Bermuda",
-        "alpha2": "BM",
-        "countryCode": "060",
-        "EER": "no",
-        "nationality": {"dutch": "Brits overzees burger (Bermuda)"
-    }},
-    {
-        "name": "Bhutan",
-        "alpha2": "BT",
-        "countryCode": "064",
-        "EER": "no",
-        "nationality": {"dutch": "Bhutanees"
-    }},
-    {
-        "name": "Bolivia (Plurinational State of)",
-        "alpha2": "BO",
-        "countryCode": "068",
-        "EER": "no",
-        "nationality": {"dutch": "Boliviaans"
-    }},
-    {
-        "name": "Bonaire, Sint Eustatius and Saba",
-        "alpha2": "BQ",
-        "countryCode": "535",
-        "EER": "yes",
-        "nationality": {"dutch": "Nederlands (Bonaire, Sint Eustatius en Saba)"
-    }},
-    {
-        "name": "Bosnia and Herzegovina",
-        "alpha2": "BA",
-        "countryCode": "070",
-        "EER": "no",
-        "nationality": {"dutch": "Bosnisch"
-    }},
-    {
-        "name": "Botswana",
-        "alpha2": "BW",
-        "countryCode": "072",
-        "EER": "no",
-        "nationality": {"dutch": "Botswaans"
-    }},
-    {
-        "name": "Bouvet Island",
-        "alpha2": "BV",
-        "countryCode": "074",
-        "EER": "no",
-        "nationality": {"dutch": "Noors (Bouveteiland)"
-    }},
-    {
-        "name": "Brazil",
-        "alpha2": "BR",
-        "countryCode": "076",
-        "EER": "no",
-        "nationality": {"dutch": "Braziliaans"
-    }},
-    {
-        "name": "British Indian Ocean Territory",
-        "alpha2": "IO",
-        "countryCode": "086",
-        "EER": "no",
-        "nationality": {"dutch": "Brits overzees burger (Chagos)"
-    }},
-    {
-        "name": "Brunei Darussalam",
-        "alpha2": "BN",
-        "countryCode": "096",
-        "EER": "no",
-        "nationality": {"dutch": "Bruneis"
-    }},
-    {
-        "name": "Bulgaria",
-        "alpha2": "BG",
-        "countryCode": "100",
-        "EER": "yes",
-        "nationality": {"dutch": "Bulgaars"
-    }},
-    {
-        "name": "Burkina Faso",
-        "alpha2": "BF",
-        "countryCode": "854",
-        "EER": "no",
-        "nationality": {"dutch": "Burkinees"
-    }},
-    {
-        "name": "Burundi",
-        "alpha2": "BI",
-        "countryCode": "108",
-        "EER": "no",
-        "nationality": {"dutch": "Burundisch"
-    }},
-    {
-        "name": "Cabo Verde",
-        "alpha2": "CV",
-        "countryCode": "132",
-        "EER": "no",
-        "nationality": {"dutch": "Kaapverdisch"
-    }},
-    {
-        "name": "Cambodia",
-        "alpha2": "KH",
-        "countryCode": "116",
-        "EER": "no",
-        "nationality": {"dutch": "Cambodjaans"
-    }},
-    {
-        "name": "Cameroon",
-        "alpha2": "CM",
-        "countryCode": "120",
-        "EER": "no",
-        "nationality": {"dutch": "Kameroens"
-    }},
-    {
-        "name": "Canada",
-        "alpha2": "CA",
-        "countryCode": "124",
-        "EER": "no",
-        "nationality": {"dutch": "Canadees"
-    }},
-    {
-        "name": "Cayman Islands",
-        "alpha2": "KY",
-        "countryCode": "136",
-        "EER": "no",
-        "nationality": {"dutch": "Brits overzees burger (Kaaimaneilanden)"
-    }},
-    {
-        "name": "Central African Republic",
-        "alpha2": "CF",
-        "countryCode": "140",
-        "EER": "no",
-        "nationality": {"dutch": "Centraal-Afrikaans"
-    }},
-    {
-        "name": "Chad",
-        "alpha2": "TD",
-        "countryCode": "148",
-        "EER": "no",
-        "nationality": {"dutch": "Tsjadisch"
-    }},
-    {
-        "name": "Chile",
-        "alpha2": "CL",
-        "countryCode": "152",
-        "EER": "no",
-        "nationality": {"dutch": "Chileens"
-    }},
-    {
-        "name": "China",
-        "alpha2": "CN",
-        "countryCode": "156",
-        "EER": "no",
-        "nationality": {"dutch": "Chinees"
-    }},
-    {
-        "name": "Christmas Island",
-        "alpha2": "CX",
-        "countryCode": "162",
-        "EER": "no",
-        "nationality": {"dutch": "Autralisch (Kersteiland)"
-    }},
-    {
-        "name": "Cocos (Keeling) Islands",
-        "alpha2": "CC",
-        "countryCode": "166",
-        "EER": "no",
-        "nationality": {"dutch": "Australisch (Cocoseilanden/Keelingeilanden)"
-    }},
-    {
-        "name": "Colombia",
-        "alpha2": "CO",
-        "countryCode": "170",
-        "EER": "no",
-        "nationality": {"dutch": "Colombiaans"
-    }},
-    {
-        "name": "Comoros",
-        "alpha2": "KM",
-        "countryCode": "174",
-        "EER": "no",
-        "nationality": {"dutch": "Comorees"
-    }},
-    {
-        "name": "Congo",
-        "alpha2": "CG",
-        "countryCode": "178",
-        "EER": "no",
-        "nationality": {"dutch": "Congolees"
-    }},
-    {
-        "name": "Congo, Democratic Republic of the",
-        "alpha2": "CD",
-        "countryCode": "180",
-        "EER": "no",
-        "nationality": {"dutch": "Congolees (Democratische Republiek)"
-    }},
-    {
-        "name": "Cook Islands",
-        "alpha2": "CK",
-        "countryCode": "184",
-        "EER": "no",
-        "nationality": {"dutch": "Nieuw-Zeelands (Cookeilanden)"
-    }},
-    {
-        "name": "Costa Rica",
-        "alpha2": "CR",
-        "countryCode": "188",
-        "EER": "no",
-        "nationality": {"dutch": "Costa Ricaans"
-    }},
-    {
-        "name": "Côte d'Ivoire",
-        "alpha2": "CI",
-        "countryCode": "384",
-        "EER": "no",
-        "nationality": {"dutch": "Ivoriaans"
-    }},
-    {
-        "name": "Croatia",
-        "alpha2": "HR",
-        "countryCode": "191",
-        "EER": "yes",
-        "nationality": {"dutch": "Kroatisch"
-    }},
-    {
-        "name": "Cuba",
-        "alpha2": "CU",
-        "countryCode": "192",
-        "EER": "no",
-        "nationality": {"dutch": "Cubaans"
-    }},
-    {
-        "name": "Curaçao",
-        "alpha2": "CW",
-        "countryCode": "531",
-        "EER": "yes",
-        "nationality": {"dutch": "Nederlands (Curaçao)"
-    }},
-    {
-        "name": "Cyprus",
-        "alpha2": "CY",
-        "countryCode": "196",
-        "EER": "yes",
-        "nationality": {"dutch": "Cyprisch"
-    }},
-    {
-        "name": "Czechia",
-        "alpha2": "CZ",
-        "countryCode": "203",
-        "EER": "yes",
-        "nationality": {"dutch": "Tsjechisch"
-    }},
-    {
-        "name": "Denmark",
-        "alpha2": "DK",
-        "countryCode": "208",
-        "EER": "yes",
-        "nationality": {"dutch": "Deens"
-    }},
-    {
-        "name": "Djibouti",
-        "alpha2": "DJ",
-        "countryCode": "262",
-        "EER": "no",
-        "nationality": {"dutch": "Djiboutaans"
-    }},
-    {
-        "name": "Dominica",
-        "alpha2": "DM",
-        "countryCode": "212",
-        "EER": "no",
-        "nationality": {"dutch": "Dominicaans (Dominica)"
-    }},
-    {
-        "name": "Dominican Republic",
-        "alpha2": "DO",
-        "countryCode": "214",
-        "EER": "no",
-        "nationality": {"dutch": "Dominicaans (Dominicaanse Republiek)"
-    }},
-    {
-        "name": "Ecuador",
-        "alpha2": "EC",
-        "countryCode": "218",
-        "EER": "no",
-        "nationality": {"dutch": "Ecuadoraans"
-    }},
-    {
-        "name": "Egypt",
-        "alpha2": "EG",
-        "countryCode": "818",
-        "EER": "no",
-        "nationality": {"dutch": "Egyptisch"
-    }},
-    {
-        "name": "El Salvador",
-        "alpha2": "SV",
-        "countryCode": "222",
-        "EER": "no",
-        "nationality": {"dutch": "Salvadoraans"
-    }},
-    {
-        "name": "Equatorial Guinea",
-        "alpha2": "GQ",
-        "countryCode": "226",
-        "EER": "no",
-        "nationality": {"dutch": "Equatoriaal-Guinees"
-    }},
-    {
-        "name": "Eritrea",
-        "alpha2": "ER",
-        "countryCode": "232",
-        "EER": "no",
-        "nationality": {"dutch": "Eritrees"
-    }},
-    {
-        "name": "Estonia",
-        "alpha2": "EE",
-        "countryCode": "233",
-        "EER": "yes",
-        "nationality": {"dutch": "Ests"
-    }},
-    {
-        "name": "Eswatini",
-        "alpha2": "SZ",
-        "countryCode": "748",
-        "EER": "no",
-        "nationality": {"dutch": "Eswatinische"
-    }},
-    {
-        "name": "Ethiopia",
-        "alpha2": "ET",
-        "countryCode": "231",
-        "EER": "no",
-        "nationality": {"dutch": "Ethiopisch"
-    }},
-    {
-        "name": "Falkland Islands (Malvinas)",
-        "alpha2": "FK",
-        "countryCode": "238",
-        "EER": "no",
-        "nationality": {"dutch": "Brits overzees burger (Falklandeilanden)"
-    }},
-    {
-        "name": "Faroe Islands",
-        "alpha2": "FO",
-        "countryCode": "234",
-        "EER": "no",
-        "nationality": {"dutch": "Deens (Faeröer eilanden)"
-    }},
-    {
-        "name": "Fiji",
-        "alpha2": "FJ",
-        "countryCode": "242",
-        "EER": "no",
-        "nationality": {"dutch": "Fijisch"
-    }},
-    {
-        "name": "Finland",
-        "alpha2": "FI",
-        "countryCode": "246",
-        "EER": "yes",
-        "nationality": {"dutch": "Fins"
-    }},
-    {
-        "name": "France",
-        "alpha2": "FR",
-        "countryCode": "250",
-        "EER": "yes",
-        "nationality": {"dutch": "Frans"
-    }},
-    {
-        "name": "French Guiana",
-        "alpha2": "GF",
-        "countryCode": "254",
-        "EER": "no",
-        "nationality": {"dutch": "Frans (Frans-Guyana)"
-    }},
-    {
-        "name": "French Polynesia",
-        "alpha2": "PF",
-        "countryCode": "258",
-        "EER": "no",
-        "nationality": {"dutch": "Frans (Frans-Polynees)"
-    }},
-    {
-        "name": "French Southern Territories",
-        "alpha2": "TF",
-        "countryCode": "260",
-        "EER": "no",
-        "nationality": {"dutch": "Frans (Franse Zuidelijke en Antarctische Gebieden)"
-    }},
-    {
-        "name": "Gabon",
-        "alpha2": "GA",
-        "countryCode": "266",
-        "EER": "no",
-        "nationality": {"dutch": "Gabonees"
-    }},
-    {
-        "name": "Gambia",
-        "alpha2": "GM",
-        "countryCode": "270",
-        "EER": "no",
-        "nationality": {"dutch": "Gambiaans"
-    }},
-    {
-        "name": "Georgia",
-        "alpha2": "GE",
-        "countryCode": "268",
-        "EER": "no",
-        "nationality": {"dutch": "Georgisch"
-    }},
-    {
-        "name": "Germany",
-        "alpha2": "DE",
-        "countryCode": "276",
-        "EER": "yes",
-        "nationality": {"dutch": "Duits"
-    }},
-    {
-        "name": "Ghana",
-        "alpha2": "GH",
-        "countryCode": "288",
-        "EER": "no",
-        "nationality": {"dutch": "Ghanees"
-    }},
-    {
-        "name": "Gibraltar",
-        "alpha2": "GI",
-        "countryCode": "292",
-        "EER": "no",
-        "nationality": {"dutch": "Brits (Gibraltar)"
-    }},
-    {
-        "name": "Greece",
-        "alpha2": "GR",
-        "countryCode": "300",
-        "EER": "yes",
-        "nationality": {"dutch": "Grieks"
-    }},
-    {
-        "name": "Greenland",
-        "alpha2": "GL",
-        "countryCode": "304",
-        "EER": "no",
-        "nationality": {"dutch": "Deens (Groenland)"
-    }},
-    {
-        "name": "Grenada",
-        "alpha2": "GD",
-        "countryCode": "308",
-        "EER": "no",
-        "nationality": {"dutch": "Grenadaans"
-    }},
-    {
-        "name": "Guadeloupe",
-        "alpha2": "GP",
-        "countryCode": "312",
-        "EER": "no",
-        "nationality": {"dutch": "Frans (Guadeloupe)"
-    }},
-    {
-        "name": "Guam",
-        "alpha2": "GU",
-        "countryCode": "316",
-        "EER": "no",
-        "nationality": {"dutch": "Amerikaans (Guam)"
-    }},
-    {
-        "name": "Guatemala",
-        "alpha2": "GT",
-        "countryCode": "320",
-        "EER": "no",
-        "nationality": {"dutch": "Guatemalteeks"
-    }},
-    {
-        "name": "Guernsey",
-        "alpha2": "GG",
-        "countryCode": "831",
-        "EER": "no",
-        "nationality": {"dutch": "Brits (Guernsey)"
-    }},
-    {
-        "name": "Guinea",
-        "alpha2": "GN",
-        "countryCode": "324",
-        "EER": "no",
-        "nationality": {"dutch": "Guinees"
-    }},
-    {
-        "name": "Guinea-Bissau",
-        "alpha2": "GW",
-        "countryCode": "624",
-        "EER": "no",
-        "nationality": {"dutch": "Guinee-Bissaus"
-    }},
-    {
-        "name": "Guyana",
-        "alpha2": "GY",
-        "countryCode": "328",
-        "EER": "no",
-        "nationality": {"dutch": "Guyaans"
-    }},
-    {
-        "name": "Haiti",
-        "alpha2": "HT",
-        "countryCode": "332",
-        "EER": "no",
-        "nationality": {"dutch": "Haïtiaans"
-    }},
-    {
-        "name": "Heard Island and McDonald Islands",
-        "alpha2": "HM",
-        "countryCode": "334",
-        "EER": "no",
-        "nationality": {"dutch": "Autralisch (Heardeiland en McDonaldeilanden"
-    }},
-    {
-        "name": "Holy See",
-        "alpha2": "VA",
-        "countryCode": "336",
-        "EER": "no",
-        "nationality": {"dutch": "de Heilige stoel (Vaticaanstad)"
-    }},
-    {
-        "name": "Honduras",
-        "alpha2": "HN",
-        "countryCode": "340",
-        "EER": "no",
-        "nationality": {"dutch": "Hondurees"
-    }},
-    {
-        "name": "Hong Kong",
-        "alpha2": "HK",
-        "countryCode": "344",
-        "EER": "no",
-        "nationality": {"dutch": "Chinees (Hong Kong)"
-    }},
-    {
-        "name": "Hungary",
-        "alpha2": "HU",
-        "countryCode": "348",
-        "EER": "yes",
-        "nationality": {"dutch": "Hongaars"
-    }},
-    {
-        "name": "Iceland",
-        "alpha2": "IS",
-        "countryCode": "352",
-        "EER": "yes",
-        "nationality": {"dutch": "IJslands"
-    }},
-    {
-        "name": "India",
-        "alpha2": "IN",
-        "countryCode": "356",
-        "EER": "no",
-        "nationality": {"dutch": "Indiaas"
-    }},
-    {
-        "name": "Indonesia",
-        "alpha2": "ID",
-        "countryCode": "360",
-        "EER": "no",
-        "nationality": {"dutch": "Indonesisch"
-    }},
-    {
-        "name": "Iran (Islamic Republic of)",
-        "alpha2": "IR",
-        "countryCode": "364",
-        "EER": "no",
-        "nationality": {"dutch": "Iraans"
-    }},
-    {
-        "name": "Iraq",
-        "alpha2": "IQ",
-        "countryCode": "368",
-        "EER": "no",
-        "nationality": {"dutch": "Iraaks"
-    }},
-    {
-        "name": "Ireland",
-        "alpha2": "IE",
-        "countryCode": "372",
-        "EER": "yes",
-        "nationality": {"dutch": "Iers"
-    }},
-    {
-        "name": "Isle of Man",
-        "alpha2": "IM",
-        "countryCode": "833",
-        "EER": "no",
-        "nationality": {"dutch": "Brits (Isle of Man)"
-    }},
-    {
-        "name": "Israel",
-        "alpha2": "IL",
-        "countryCode": "376",
-        "EER": "no",
-        "nationality": {"dutch": "Israëlisch"
-    }},
-    {
-        "name": "Italy",
-        "alpha2": "IT",
-        "countryCode": "380",
-        "EER": "yes",
-        "nationality": {"dutch": "Italiaans"
-    }},
-    {
-        "name": "Jamaica",
-        "alpha2": "JM",
-        "countryCode": "388",
-        "EER": "no",
-        "nationality": {"dutch": "Jamaicaans"
-    }},
-    {
-        "name": "Japan",
-        "alpha2": "JP",
-        "countryCode": "392",
-        "EER": "no",
-        "nationality": {"dutch": "Japans"
-    }},
-    {
-        "name": "Jersey",
-        "alpha2": "JE",
-        "countryCode": "832",
-        "EER": "no",
-        "nationality": {"dutch": "Brits (Jersey)"
-    }},
-    {
-        "name": "Jordan",
-        "alpha2": "JO",
-        "countryCode": "400",
-        "EER": "no",
-        "nationality": {"dutch": "Jordaans"
-    }},
-    {
-        "name": "Kazakhstan",
-        "alpha2": "KZ",
-        "countryCode": "398",
-        "EER": "no",
-        "nationality": {"dutch": "Kazaks"
-    }},
-    {
-        "name": "Kenya",
-        "alpha2": "KE",
-        "countryCode": "404",
-        "EER": "no",
-        "nationality": {"dutch": "Keniaans"
-    }},
-    {
-        "name": "Kiribati",
-        "alpha2": "KI",
-        "countryCode": "296",
-        "EER": "no",
-        "nationality": {"dutch": "Kiribatisch"
-    }},
-    {
-        "name": "Korea (Democratic People's Republic of)",
-        "alpha2": "KP",
-        "countryCode": "408",
-        "EER": "no",
-        "nationality": {"dutch": "Noord-Koreeans"
-    }},
-    {
-        "name": "Korea, Republic of",
-        "alpha2": "KR",
-        "countryCode": "410",
-        "EER": "no",
-        "nationality": {"dutch": "Zuid-Koreaans"
-    }},
-    {
-        "name": "Kuwait",
-        "alpha2": "KW",
-        "countryCode": "414",
-        "EER": "no",
-        "nationality": {"dutch": "Koeweits"
-    }},
-    {
-        "name": "Kyrgyzstan",
-        "alpha2": "KG",
-        "countryCode": "417",
-        "EER": "no",
-        "nationality": {"dutch": "Kyrgizisch"
-    }},
-    {
-        "name": "Lao People's Democratic Republic",
-        "alpha2": "LA",
-        "countryCode": "418",
-        "EER": "no",
-        "nationality": {"dutch": "Laotiaans"
-    }},
-    {
-        "name": "Latvia",
-        "alpha2": "LV",
-        "countryCode": "428",
-        "EER": "yes",
-        "nationality": {"dutch": "Lets"
-    }},
-    {
-        "name": "Lebanon",
-        "alpha2": "LB",
-        "countryCode": "422",
-        "EER": "no",
-        "nationality": {"dutch": "Libanees"
-    }},
-    {
-        "name": "Lesotho",
-        "alpha2": "LS",
-        "countryCode": "426",
-        "EER": "no",
-        "nationality": {"dutch": "Lesothaans"
-    }},
-    {
-        "name": "Liberia",
-        "alpha2": "LR",
-        "countryCode": "430",
-        "EER": "no",
-        "nationality": {"dutch": "Liberiaans"
-    }},
-    {
-        "name": "Libya",
-        "alpha2": "LY",
-        "countryCode": "434",
-        "EER": "no",
-        "nationality": {"dutch": "Libisch"
-    }},
-    {
-        "name": "Liechtenstein",
-        "alpha2": "LI",
-        "countryCode": "438",
-        "EER": "yes",
-        "nationality": {"dutch": "Liechtensteins"
-    }},
-    {
-        "name": "Lithuania",
-        "alpha2": "LT",
-        "countryCode": "440",
-        "EER": "yes",
-        "nationality": {"dutch": "Litouws"
-    }},
-    {
-        "name": "Luxembourg",
-        "alpha2": "LU",
-        "countryCode": "442",
-        "EER": "yes",
-        "nationality": {"dutch": "Luxemburgs"
-    }},
-    {
-        "name": "Macao",
-        "alpha2": "MO",
-        "countryCode": "446",
-        "EER": "no",
-        "nationality": {"dutch": "Chinees (Macao)"
-    }},
-    {
-        "name": "Madagascar",
-        "alpha2": "MG",
-        "countryCode": "450",
-        "EER": "no",
-        "nationality": {"dutch": "Madagaskisch"
-    }},
-    {
-        "name": "Malawi",
-        "alpha2": "MW",
-        "countryCode": "454",
-        "EER": "no",
-        "nationality": {"dutch": "Malawisch"
-    }},
-    {
-        "name": "Malaysia",
-        "alpha2": "MY",
-        "countryCode": "458",
-        "EER": "no",
-        "nationality": {"dutch": "Maleisisch"
-    }},
-    {
-        "name": "Maldives",
-        "alpha2": "MV",
-        "countryCode": "462",
-        "EER": "no",
-        "nationality": {"dutch": "Maledivisch"
-    }},
-    {
-        "name": "Mali",
-        "alpha2": "ML",
-        "countryCode": "466",
-        "EER": "no",
-        "nationality": {"dutch": "Malinees"
-    }},
-    {
-        "name": "Malta",
-        "alpha2": "MT",
-        "countryCode": "470",
-        "EER": "yes",
-        "nationality": {"dutch": "Maltees"
-    }},
-    {
-        "name": "Marshall Islands",
-        "alpha2": "MH",
-        "countryCode": "584",
-        "EER": "no",
-        "nationality": {"dutch": "Marshallees"
-    }},
-    {
-        "name": "Martinique",
-        "alpha2": "MQ",
-        "countryCode": "474",
-        "EER": "no",
-        "nationality": {"dutch": "Frans (Martinique)"
-    }},
-    {
-        "name": "Mauritania",
-        "alpha2": "MR",
-        "countryCode": "478",
-        "EER": "no",
-        "nationality": {"dutch": "Mauritaans"
-    }},
-    {
-        "name": "Mauritius",
-        "alpha2": "MU",
-        "countryCode": "480",
-        "EER": "no",
-        "nationality": {"dutch": "Mauritiaans"
-    }},
-    {
-        "name": "Mayotte",
-        "alpha2": "YT",
-        "countryCode": "175",
-        "EER": "no",
-        "nationality": {"dutch": "Frans (Mayotte)"
-    }},
-    {
-        "name": "Mexico",
-        "alpha2": "MX",
-        "countryCode": "484",
-        "EER": "no",
-        "nationality": {"dutch": "Mexicaans"
-    }},
-    {
-        "name": "Micronesia (Federated States of)",
-        "alpha2": "FM",
-        "countryCode": "583",
-        "EER": "no",
-        "nationality": {"dutch": "Micronesisch"
-    }},
-    {
-        "name": "Moldova, Republic of",
-        "alpha2": "MD",
-        "countryCode": "498",
-        "EER": "no",
-        "nationality": {"dutch": "Moldavisch"
-    }},
-    {
-        "name": "Monaco",
-        "alpha2": "MC",
-        "countryCode": "492",
-        "EER": "no",
-        "nationality": {"dutch": "Monegaskisch"
-    }},
-    {
-        "name": "Mongolia",
-        "alpha2": "MN",
-        "countryCode": "496",
-        "EER": "no",
-        "nationality": {"dutch": "Mongools"
-    }},
-    {
-        "name": "Montenegro",
-        "alpha2": "ME",
-        "countryCode": "499",
-        "EER": "no",
-        "nationality": {"dutch": "Montenegrijns"
-    }},
-    {
-        "name": "Montserrat",
-        "alpha2": "MS",
-        "countryCode": "500",
-        "EER": "no",
-        "nationality": {"dutch": "Brits (Montserrat)"
-    }},
-    {
-        "name": "Morocco",
-        "alpha2": "MA",
-        "countryCode": "504",
-        "EER": "no",
-        "nationality": {"dutch": "Marokkaans"
-    }},
-    {
-        "name": "Mozambique",
-        "alpha2": "MZ",
-        "countryCode": "508",
-        "EER": "no",
-        "nationality": {"dutch": "Mozambikaans"
-    }},
-    {
-        "name": "Myanmar",
-        "alpha2": "MM",
-        "countryCode": "104",
-        "EER": "no",
-        "nationality": {"dutch": "Myanmarees"
-    }},
-    {
-        "name": "Namibia",
-        "alpha2": "NA",
-        "countryCode": "516",
-        "EER": "no",
-        "nationality": {"dutch": "Namibisch"
-    }},
-    {
-        "name": "Nauru",
-        "alpha2": "NR",
-        "countryCode": "520",
-        "EER": "no",
-        "nationality": {"dutch": "Nauruaans"
-    }},
-    {
-        "name": "Nepal",
-        "alpha2": "NP",
-        "countryCode": "524",
-        "EER": "no",
-        "nationality": {"dutch": "Nepalees"
-    }},
-    {
-        "name": "Netherlands",
-        "alpha2": "NL",
-        "countryCode": "528",
-        "EER": "yes",
-        "nationality": {"dutch": "Nederlands"
-    }},
-    {
-        "name": "New Caledonia",
-        "alpha2": "NC",
-        "countryCode": "540",
-        "EER": "no",
-        "nationality": {"dutch": "Frans (New Caledonia)"
-    }},
-    {
-        "name": "New Zealand",
-        "alpha2": "NZ",
-        "countryCode": "554",
-        "EER": "no",
-        "nationality": {"dutch": "Nieuw-Zeelands"
-    }},
-    {
-        "name": "Nicaragua",
-        "alpha2": "NI",
-        "countryCode": "558",
-        "EER": "no",
-        "nationality": {"dutch": "Nicaraguaans"
-    }},
-    {
-        "name": "Niger",
-        "alpha2": "NE",
-        "countryCode": "562",
-        "EER": "no",
-        "nationality": {"dutch": "Nigerees"
-    }},
-    {
-        "name": "Nigeria",
-        "alpha2": "NG",
-        "countryCode": "566",
-        "EER": "no",
-        "nationality": {"dutch": "Nigeriaans"
-    }},
-    {
-        "name": "Niue",
-        "alpha2": "NU",
-        "countryCode": "570",
-        "EER": "no",
-        "nationality": {"dutch": "Nieuw-Zeelands (Niue)"
-    }},
-    {
-        "name": "Norfolk Island",
-        "alpha2": "NF",
-        "countryCode": "574",
-        "EER": "no",
-        "nationality": {"dutch": "Autralisch (Norfolk)"
-    }},
-    {
-        "name": "North Macedonia",
-        "alpha2": "MK",
-        "countryCode": "807",
-        "EER": "no",
-        "nationality": {"dutch": "Noord-Macedonisch"
-    }},
-    {
-        "name": "Northern Mariana Islands",
-        "alpha2": "MP",
-        "countryCode": "580",
-        "EER": "no",
-        "nationality": {"dutch": "Amerikaans (Noordelijke Marianen)"
-    }},
-    {
-        "name": "Norway",
-        "alpha2": "NO",
-        "countryCode": "578",
-        "EER": "yes",
-        "nationality": {"dutch": "Noors"
-    }},
-    {
-        "name": "Oman",
-        "alpha2": "OM",
-        "countryCode": "512",
-        "EER": "no",
-        "nationality": {"dutch": "Omanitisch"
-    }},
-    {
-        "name": "Pakistan",
-        "alpha2": "PK",
-        "countryCode": "586",
-        "EER": "no",
-        "nationality": {"dutch": "Pakistaans"
-    }},
-    {
-        "name": "Palau",
-        "alpha2": "PW",
-        "countryCode": "585",
-        "EER": "no",
-        "nationality": {"dutch": "Palaus"
-    }},
-    {
-        "name": "Palestine, State of",
-        "alpha2": "PS",
-        "countryCode": "275",
-        "EER": "no",
-        "nationality": {"dutch": "Palestijns"
-    }},
-    {
-        "name": "Panama",
-        "alpha2": "PA",
-        "countryCode": "591",
-        "EER": "no",
-        "nationality": {"dutch": "Panamees"
-    }},
-    {
-        "name": "Papua New Guinea",
-        "alpha2": "PG",
-        "countryCode": "598",
-        "EER": "no",
-        "nationality": {"dutch": "Papuaans"
-    }},
-    {
-        "name": "Paraguay",
-        "alpha2": "PY",
-        "countryCode": "600",
-        "EER": "no",
-        "nationality": {"dutch": "Paraguayaans"
-    }},
-    {
-        "name": "Peru",
-        "alpha2": "PE",
-        "countryCode": "604",
-        "EER": "no",
-        "nationality": {"dutch": "Peruaans"
-    }},
-    {
-        "name": "Philippines",
-        "alpha2": "PH",
-        "countryCode": "608",
-        "EER": "no",
-        "nationality": {"dutch": "Filippijns"
-    }},
-    {
-        "name": "Pitcairn",
-        "alpha2": "PN",
-        "countryCode": "612",
-        "EER": "no",
-        "nationality": {"dutch": "Brits (Pitcairn)"
-    }},
-    {
-        "name": "Poland",
-        "alpha2": "PL",
-        "countryCode": "616",
-        "EER": "yes",
-        "nationality": {"dutch": "Pools"
-    }},
-    {
-        "name": "Portugal",
-        "alpha2": "PT",
-        "countryCode": "620",
-        "EER": "yes",
-        "nationality": {"dutch": "Portugees"
-    }},
-    {
-        "name": "Puerto Rico",
-        "alpha2": "PR",
-        "countryCode": "630",
-        "EER": "no",
-        "nationality": {"dutch": "Amerikaans (Puerto Rico)"
-    }},
-    {
-        "name": "Qatar",
-        "alpha2": "QA",
-        "countryCode": "634",
-        "EER": "no",
-        "nationality": {"dutch": "Katarees"
-    }},
-    {
-        "name": "Réunion",
-        "alpha2": "RE",
-        "countryCode": "638",
-        "EER": "no",
-        "nationality": {"dutch": "Frans (Réunion)"
-    }},
-    {
-        "name": "Romania",
-        "alpha2": "RO",
-        "countryCode": "642",
-        "EER": "yes",
-        "nationality": {"dutch": "Roemeens"
-    }},
-    {
-        "name": "Russian Federation",
-        "alpha2": "RU",
-        "countryCode": "643",
-        "EER": "no",
-        "nationality": {"dutch": "Russisch"
-    }},
-    {
-        "name": "Rwanda",
-        "alpha2": "RW",
-        "countryCode": "646",
-        "EER": "no",
-        "nationality": {"dutch": "Rwandees"
-    }},
-    {
-        "name": "Saint Barthélemy",
-        "alpha2": "BL",
-        "countryCode": "652",
-        "EER": "no",
-        "nationality": {"dutch": "Frans (Saint-Barthélemy)"
-    }},
-    {
-        "name": "Saint Helena, Ascension and Tristan da Cunha",
-        "alpha2": "SH",
-        "countryCode": "654",
-        "EER": "no",
-        "nationality": {"dutch": "Brits (Sint-Helena, Ascension en Tristan da Cunha)"
-    }},
-    {
-        "name": "Saint Kitts and Nevis",
-        "alpha2": "KN",
-        "countryCode": "659",
-        "EER": "no",
-        "nationality": {"dutch": "Sint Kittiaans en Nevisaans"
-    }},
-    {
-        "name": "Saint Lucia",
-        "alpha2": "LC",
-        "countryCode": "662",
-        "EER": "no",
-        "nationality": {"dutch": "Sint Luciaans"
-    }},
-    {
-        "name": "Saint Martin (French part)",
-        "alpha2": "MF",
-        "countryCode": "663",
-        "EER": "no",
-        "nationality": {"dutch": "Frans (Saint-Martin)"
-    }},
-    {
-        "name": "Saint Pierre and Miquelon",
-        "alpha2": "PM",
-        "countryCode": "666",
-        "EER": "no",
-        "nationality": {"dutch": "Frans (Saint-Pierre en Miquelon)"
-    }},
-    {
-        "name": "Saint Vincent and the Grenadines",
-        "alpha2": "VC",
-        "countryCode": "670",
-        "EER": "no",
-        "nationality": {"dutch": "Sint Vincents"
-    }},
-    {
-        "name": "Samoa",
-        "alpha2": "WS",
-        "countryCode": "882",
-        "EER": "no",
-        "nationality": {"dutch": "Samoaans"
-    }},
-    {
-        "name": "San Marino",
-        "alpha2": "SM",
-        "countryCode": "674",
-        "EER": "no",
-        "nationality": {"dutch": "San Marinees"
-    }},
-    {
-        "name": "Sao Tome and Principe",
-        "alpha2": "ST",
-        "countryCode": "678",
-        "EER": "no",
-        "nationality": {"dutch": "Sao Tomeaans en Principaans"
-    }},
-    {
-        "name": "Saudi Arabia",
-        "alpha2": "SA",
-        "countryCode": "682",
-        "EER": "no",
-        "nationality": {"dutch": "Saoedi-Arabisch"
-    }},
-    {
-        "name": "Senegal",
-        "alpha2": "SN",
-        "countryCode": "686",
-        "EER": "no",
-        "nationality": {"dutch": "Senegalees"
-    }},
-    {
-        "name": "Serbia",
-        "alpha2": "RS",
-        "countryCode": "688",
-        "EER": "no",
-        "nationality": {"dutch": "Servisch"
-    }},
-    {
-        "name": "Seychelles",
-        "alpha2": "SC",
-        "countryCode": "690",
-        "EER": "no",
-        "nationality": {"dutch": "Sechels"
-    }},
-    {
-        "name": "Sierra Leone",
-        "alpha2": "SL",
-        "countryCode": "694",
-        "EER": "no",
-        "nationality": {"dutch": "Sierra Leoons"
-    }},
-    {
-        "name": "Singapore",
-        "alpha2": "SG",
-        "countryCode": "702",
-        "EER": "no",
-        "nationality": {"dutch": "Singaporees"
-    }},
-    {
-        "name": "Sint Maarten (Dutch part)",
-        "alpha2": "SX",
-        "countryCode": "534",
-        "EER": "no",
-        "nationality": {"dutch": "Nederlands (Sint Maarten)"
-    }},
-    {
-        "name": "Slovakia",
-        "alpha2": "SK",
-        "countryCode": "703",
-        "EER": "yes",
-        "nationality": {"dutch": "Slowaaks"
-    }},
-    {
-        "name": "Slovenia",
-        "alpha2": "SI",
-        "countryCode": "705",
-        "EER": "no",
-        "nationality": {"dutch": "Sloveens"
-    }},
-    {
-        "name": "Solomon Islands",
-        "alpha2": "SB",
-        "countryCode": "090",
-        "EER": "no",
-        "nationality": {"dutch": "Solomons"
-    }},
-    {
-        "name": "Somalia",
-        "alpha2": "SO",
-        "countryCode": "706",
-        "EER": "no",
-        "nationality": {"dutch": "Somalisch"
-    }},
-    {
-        "name": "South Africa",
-        "alpha2": "ZA",
-        "countryCode": "710",
-        "EER": "no",
-        "nationality": {"dutch": "Zuid-Afrikaans"
-    }},
-    {
-        "name": "South Georgia and the South Sandwich Islands",
-        "alpha2": "GS",
-        "countryCode": "239",
-        "EER": "no",
-        "nationality": {"dutch": "Brits (Zuid-Georgia en de Zuidelijke Sandwicheilanden)"
-    }},
-    {
-        "name": "South Sudan",
-        "alpha2": "SS",
-        "countryCode": "728",
-        "EER": "no",
-        "nationality": {"dutch": "Zuidsoedanese"
-    }},
-    {
-        "name": "Spain",
-        "alpha2": "ES",
-        "countryCode": "724",
-        "EER": "yes",
-        "nationality": {"dutch": "Spaans"
-    }},
-    {
-        "name": "Sri Lanka",
-        "alpha2": "LK",
-        "countryCode": "144",
-        "EER": "no",
-        "nationality": {"dutch": "Sri Lankaans"
-    }},
-    {
-        "name": "Sudan",
-        "alpha2": "SD",
-        "countryCode": "729",
-        "EER": "no",
-        "nationality": {"dutch": "Soedanees"
-    }},
-    {
-        "name": "Suriname",
-        "alpha2": "SR",
-        "countryCode": "740",
-        "EER": "yes",
-        "nationality": {"dutch": "Surinaams"
-    }},
-    {
-        "name": "Svalbard and Jan Mayen",
-        "alpha2": "SJ",
-        "countryCode": "744",
-        "EER": "yes",
-        "nationality": {"dutch": "Noors (Spitsbergen en Jan Mayen)"
-    }},
-    {
-        "name": "Sweden",
-        "alpha2": "SE",
-        "countryCode": "752",
-        "EER": "yes",
-        "nationality": {"dutch": "Zweeds"
-    }},
-    {
-        "name": "Switzerland",
-        "alpha2": "CH",
-        "countryCode": "756",
-        "EER": "yes",
-        "nationality": {"dutch": "Zwitsers"
-    }},
-    {
-        "name": "Syrian Arab Republic",
-        "alpha2": "SY",
-        "countryCode": "760",
-        "EER": "no",
-        "nationality": {"dutch": "Syrisch"
-    }},
-    {
-        "name": "Taiwan, Province of China",
-        "alpha2": "TW",
-        "countryCode": "158",
-        "EER": "no",
-        "nationality": {"dutch": "Taiwanees"
-    }},
-    {
-        "name": "Tajikistan",
-        "alpha2": "TJ",
-        "countryCode": "762",
-        "EER": "no",
-        "nationality": {"dutch": "Tadzjikistaans"
-    }},
-    {
-        "name": "Tanzania, United Republic of",
-        "alpha2": "TZ",
-        "countryCode": "834",
-        "EER": "no",
-        "nationality": {"dutch": "Tanzaniaans"
-    }},
-    {
-        "name": "Thailand",
-        "alpha2": "TH",
-        "countryCode": "764",
-        "EER": "no",
-        "nationality": {"dutch": "Thais"
-    }},
-    {
-        "name": "Timor-Leste",
-        "alpha2": "TL",
-        "countryCode": "626",
-        "EER": "no",
-        "nationality": {"dutch": "Oost-Timors"
-    }},
-    {
-        "name": "Togo",
-        "alpha2": "TG",
-        "countryCode": "768",
-        "EER": "no",
-        "nationality": {"dutch": "Togolees"
-    }},
-    {
-        "name": "Tokelau",
-        "alpha2": "TK",
-        "countryCode": "772",
-        "EER": "no",
-        "nationality": {"dutch": "Nieuw-Zeelands (Tokelau)"
-    }},
-    {
-        "name": "Tonga",
-        "alpha2": "TO",
-        "countryCode": "776",
-        "EER": "no",
-        "nationality": {"dutch": "Tongaans"
-    }},
-    {
-        "name": "Trinidad and Tobago",
-        "alpha2": "TT",
-        "countryCode": "780",
-        "EER": "no",
-        "nationality": {"dutch": "Trinidadiaans"
-    }},
-    {
-        "name": "Tunisia",
-        "alpha2": "TN",
-        "countryCode": "788",
-        "EER": "no",
-        "nationality": {"dutch": "Tunesisch"
-    }},
-    {
-        "name": "Turkey",
-        "alpha2": "TR",
-        "countryCode": "792",
-        "EER": "no",
-        "nationality": {"dutch": "Turks"
-    }},
-    {
-        "name": "Turkmenistan",
-        "alpha2": "TM",
-        "countryCode": "795",
-        "EER": "no",
-        "nationality": {"dutch": "Turkmeens"
-    }},
-    {
-        "name": "Turks and Caicos Islands",
-        "alpha2": "TC",
-        "countryCode": "796",
-        "EER": "no",
-        "nationality": {"dutch": "Brits (Turks- en Caicoseilanden)"
-    }},
-    {
-        "name": "Tuvalu",
-        "alpha2": "TV",
-        "countryCode": "798",
-        "EER": "no",
-        "nationality": {"dutch": "Tuvaluaans"
-    }},
-    {
-        "name": "Uganda",
-        "alpha2": "UG",
-        "countryCode": "800",
-        "EER": "no",
-        "nationality": {"dutch": "Ugandees"
-    }},
-    {
-        "name": "Ukraine",
-        "alpha2": "UA",
-        "countryCode": "804",
-        "EER": "no",
-        "nationality": {"dutch": "Oekraïens"
-    }},
-    {
-        "name": "United Arab Emirates",
-        "alpha2": "AE",
-        "countryCode": "784",
-        "EER": "no",
-        "nationality": {"dutch": "Emirati"
-    }},
-    {
-        "name": "United Kingdom of Great Britain and Northern Ireland",
-        "alpha2": "GB",
-        "countryCode": "826",
-        "EER": "no",
-        "nationality": {"dutch": "Brits"
-    }},
-    {
-        "name": "United States of America",
-        "alpha2": "US",
-        "countryCode": "840",
-        "EER": "no",
-        "nationality": {"dutch": "Amerikaans"
-    }},
-    {
-        "name": "United States Minor Outlying Islands",
-        "alpha2": "UM",
-        "countryCode": "581",
-        "EER": "no",
-        "nationality": {"dutch": "Amerikaans (Minor Outlying Islands)"
-    }},
-    {
-        "name": "Uruguay",
-        "alpha2": "UY",
-        "countryCode": "858",
-        "EER": "no",
-        "nationality": {"dutch": "Uruguayaans"
-    }},
-    {
-        "name": "Uzbekistan",
-        "alpha2": "UZ",
-        "countryCode": "860",
-        "EER": "no",
-        "nationality": {"dutch": "Oezbeeks"
-    }},
-    {
-        "name": "Vanuatu",
-        "alpha2": "VU",
-        "countryCode": "548",
-        "EER": "no",
-        "nationality": {"dutch": "Vanuataans"
-    }},
-    {
-        "name": "Venezuela (Bolivarian Republic of)",
-        "alpha2": "VE",
-        "countryCode": "862",
-        "EER": "no",
-        "nationality": {"dutch": "Venezolaans"
-    }},
-    {
-        "name": "Viet Nam",
-        "alpha2": "VN",
-        "countryCode": "704",
-        "EER": "no",
-        "nationality": {"dutch": "Vietnamees"
-    }},
-    {
-        "name": "Virgin Islands (British)",
-        "alpha2": "VG",
-        "countryCode": "092",
-        "EER": "no",
-        "nationality": {"dutch": "Brits (Maagdeneilanden)"
-    }},
-    {
-        "name": "Virgin Islands (U.S.)",
-        "alpha2": "VI",
-        "countryCode": "850",
-        "EER": "no",
-        "nationality": {"dutch": "Amerikaans (Maagdeneilanden)"
-    }},
-    {
-        "name": "Wallis and Futuna",
-        "alpha2": "WF",
-        "countryCode": "876",
-        "EER": "no",
-        "nationality": {"dutch": "Frans (Wallis en Futuna)"
-    }},
-    {
-        "name": "Western Sahara",
-        "alpha2": "EH",
-        "countryCode": "732",
-        "EER": "no",
-        "nationality": {"dutch": "Sahrawiaans"
-    }},
-    {
-        "name": "Yemen",
-        "alpha2": "YE",
-        "countryCode": "887",
-        "EER": "no",
-        "nationality": {"dutch": "Jemenitisch"
-    }},
-    {
-        "name": "Zambia",
-        "alpha2": "ZM",
-        "countryCode": "894",
-        "EER": "no",
-        "nationality": {"dutch": "Zambiaans"
-    }},
-    {
-        "name": "Zimbabwe",
-        "alpha2": "ZW",
-        "countryCode": "716",
-        "EER": "no",
-        "nationality": {"dutch": "Zimbabwaans"
-    }}
- 
-        ]
+  {
+    "name": "Afghanistan",
+    "alpha2": "AF",
+    "countryCode": "004",
+    "EER": false,
+    "nationality": { "dutch": "Afghaans" }
+  },
+  {
+    "name": "Åland Islands",
+    "alpha2": "AX",
+    "countryCode": "248",
+    "EER": true,
+    "nationality": { "dutch": "Fins (Åland)" }
+  },
+  {
+    "name": "Albania",
+    "alpha2": "AL",
+    "countryCode": "008",
+    "EER": false,
+    "nationality": { "dutch": "Albanees" }
+  },
+  {
+    "name": "Algeria",
+    "alpha2": "DZ",
+    "countryCode": "012",
+    "EER": false,
+    "nationality": { "dutch": "Algerijns" }
+  },
+  {
+    "name": "American Samoa",
+    "alpha2": "AS",
+    "countryCode": "016",
+    "EER": false,
+    "nationality": { "dutch": "Amerikaans (Amerikaans Samoa)" }
+  },
+  {
+    "name": "Andorra",
+    "alpha2": "AD",
+    "countryCode": "020",
+    "EER": false,
+    "nationality": { "dutch": "Andorrees" }
+  },
+  {
+    "name": "Angola",
+    "alpha2": "AO",
+    "countryCode": "024",
+    "EER": false,
+    "nationality": { "dutch": "Angolees" }
+  },
+  {
+    "name": "Anguilla",
+    "alpha2": "AI",
+    "countryCode": "660",
+    "EER": false,
+    "nationality": { "dutch": "Brits (Anguilla)" }
+  },
+  {
+    "name": "Antarctica",
+    "alpha2": "AQ",
+    "countryCode": "010",
+    "EER": false,
+    "nationality": { "dutch": "geen (Antarctica)" }
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "alpha2": "AG",
+    "countryCode": "028",
+    "EER": false,
+    "nationality": { "dutch": "Antiguaans" }
+  },
+  {
+    "name": "Argentina",
+    "alpha2": "AR",
+    "countryCode": "032",
+    "EER": false,
+    "nationality": { "dutch": "Argentijns" }
+  },
+  {
+    "name": "Armenia",
+    "alpha2": "AM",
+    "countryCode": "051",
+    "EER": false,
+    "nationality": { "dutch": "Armeens" }
+  },
+  {
+    "name": "Aruba",
+    "alpha2": "AW",
+    "countryCode": "533",
+    "EER": true,
+    "nationality": { "dutch": "Nederlands (Aruba)" }
+  },
+  {
+    "name": "Australia",
+    "alpha2": "AU",
+    "countryCode": "036",
+    "EER": false,
+    "nationality": { "dutch": "Australisch" }
+  },
+  {
+    "name": "Austria",
+    "alpha2": "AT",
+    "countryCode": "040",
+    "EER": true,
+    "nationality": { "dutch": "Oostenrijks" }
+  },
+  {
+    "name": "Azerbaijan",
+    "alpha2": "AZ",
+    "countryCode": "031",
+    "EER": false,
+    "nationality": { "dutch": "Azerbeidzjaans" }
+  },
+  {
+    "name": "Bahamas",
+    "alpha2": "BS",
+    "countryCode": "044",
+    "EER": false,
+    "nationality": { "dutch": "Bahamaans" }
+  },
+  {
+    "name": "Bahrain",
+    "alpha2": "BH",
+    "countryCode": "048",
+    "EER": false,
+    "nationality": { "dutch": "Bahreins" }
+  },
+  {
+    "name": "Bangladesh",
+    "alpha2": "BD",
+    "countryCode": "050",
+    "EER": false,
+    "nationality": { "dutch": "Myanmarees" }
+  },
+  {
+    "name": "Barbados",
+    "alpha2": "BB",
+    "countryCode": "052",
+    "EER": false,
+    "nationality": { "dutch": "Barbadaans" }
+  },
+  {
+    "name": "Belarus",
+    "alpha2": "BY",
+    "countryCode": "112",
+    "EER": false,
+    "nationality": { "dutch": "Wit-Russisch" }
+  },
+  {
+    "name": "Belgium",
+    "alpha2": "BE",
+    "countryCode": "056",
+    "EER": true,
+    "nationality": { "dutch": "Belgisch" }
+  },
+  {
+    "name": "Belize",
+    "alpha2": "BZ",
+    "countryCode": "084",
+    "EER": false,
+    "nationality": { "dutch": "Belizaans" }
+  },
+  {
+    "name": "Benin",
+    "alpha2": "BJ",
+    "countryCode": "204",
+    "EER": false,
+    "nationality": { "dutch": "Benins" }
+  },
+  {
+    "name": "Bermuda",
+    "alpha2": "BM",
+    "countryCode": "060",
+    "EER": false,
+    "nationality": { "dutch": "Brits overzees burger (Bermuda)" }
+  },
+  {
+    "name": "Bhutan",
+    "alpha2": "BT",
+    "countryCode": "064",
+    "EER": false,
+    "nationality": { "dutch": "Bhutanees" }
+  },
+  {
+    "name": "Bolivia (Plurinational State of)",
+    "alpha2": "BO",
+    "countryCode": "068",
+    "EER": false,
+    "nationality": { "dutch": "Boliviaans" }
+  },
+  {
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "alpha2": "BQ",
+    "countryCode": "535",
+    "EER": true,
+    "nationality": { "dutch": "Nederlands (Bonaire, Sint Eustatius en Saba)" }
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "alpha2": "BA",
+    "countryCode": "070",
+    "EER": false,
+    "nationality": { "dutch": "Bosnisch" }
+  },
+  {
+    "name": "Botswana",
+    "alpha2": "BW",
+    "countryCode": "072",
+    "EER": false,
+    "nationality": { "dutch": "Botswaans" }
+  },
+  {
+    "name": "Bouvet Island",
+    "alpha2": "BV",
+    "countryCode": "074",
+    "EER": false,
+    "nationality": { "dutch": "Noors (Bouveteiland)" }
+  },
+  {
+    "name": "Brazil",
+    "alpha2": "BR",
+    "countryCode": "076",
+    "EER": false,
+    "nationality": { "dutch": "Braziliaans" }
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "alpha2": "IO",
+    "countryCode": "086",
+    "EER": false,
+    "nationality": { "dutch": "Brits overzees burger (Chagos)" }
+  },
+  {
+    "name": "Brunei Darussalam",
+    "alpha2": "BN",
+    "countryCode": "096",
+    "EER": false,
+    "nationality": { "dutch": "Bruneis" }
+  },
+  {
+    "name": "Bulgaria",
+    "alpha2": "BG",
+    "countryCode": "100",
+    "EER": true,
+    "nationality": { "dutch": "Bulgaars" }
+  },
+  {
+    "name": "Burkina Faso",
+    "alpha2": "BF",
+    "countryCode": "854",
+    "EER": false,
+    "nationality": { "dutch": "Burkinees" }
+  },
+  {
+    "name": "Burundi",
+    "alpha2": "BI",
+    "countryCode": "108",
+    "EER": false,
+    "nationality": { "dutch": "Burundisch" }
+  },
+  {
+    "name": "Cabo Verde",
+    "alpha2": "CV",
+    "countryCode": "132",
+    "EER": false,
+    "nationality": { "dutch": "Kaapverdisch" }
+  },
+  {
+    "name": "Cambodia",
+    "alpha2": "KH",
+    "countryCode": "116",
+    "EER": false,
+    "nationality": { "dutch": "Cambodjaans" }
+  },
+  {
+    "name": "Cameroon",
+    "alpha2": "CM",
+    "countryCode": "120",
+    "EER": false,
+    "nationality": { "dutch": "Kameroens" }
+  },
+  {
+    "name": "Canada",
+    "alpha2": "CA",
+    "countryCode": "124",
+    "EER": false,
+    "nationality": { "dutch": "Canadees" }
+  },
+  {
+    "name": "Cayman Islands",
+    "alpha2": "KY",
+    "countryCode": "136",
+    "EER": false,
+    "nationality": { "dutch": "Brits overzees burger (Kaaimaneilanden)" }
+  },
+  {
+    "name": "Central African Republic",
+    "alpha2": "CF",
+    "countryCode": "140",
+    "EER": false,
+    "nationality": { "dutch": "Centraal-Afrikaans" }
+  },
+  {
+    "name": "Chad",
+    "alpha2": "TD",
+    "countryCode": "148",
+    "EER": false,
+    "nationality": { "dutch": "Tsjadisch" }
+  },
+  {
+    "name": "Chile",
+    "alpha2": "CL",
+    "countryCode": "152",
+    "EER": false,
+    "nationality": { "dutch": "Chileens" }
+  },
+  {
+    "name": "China",
+    "alpha2": "CN",
+    "countryCode": "156",
+    "EER": false,
+    "nationality": { "dutch": "Chinees" }
+  },
+  {
+    "name": "Christmas Island",
+    "alpha2": "CX",
+    "countryCode": "162",
+    "EER": false,
+    "nationality": { "dutch": "Autralisch (Kersteiland)" }
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "alpha2": "CC",
+    "countryCode": "166",
+    "EER": false,
+    "nationality": { "dutch": "Australisch (Cocoseilanden/Keelingeilanden)" }
+  },
+  {
+    "name": "Colombia",
+    "alpha2": "CO",
+    "countryCode": "170",
+    "EER": false,
+    "nationality": { "dutch": "Colombiaans" }
+  },
+  {
+    "name": "Comoros",
+    "alpha2": "KM",
+    "countryCode": "174",
+    "EER": false,
+    "nationality": { "dutch": "Comorees" }
+  },
+  {
+    "name": "Congo",
+    "alpha2": "CG",
+    "countryCode": "178",
+    "EER": false,
+    "nationality": { "dutch": "Congolees" }
+  },
+  {
+    "name": "Congo, Democratic Republic of the",
+    "alpha2": "CD",
+    "countryCode": "180",
+    "EER": false,
+    "nationality": { "dutch": "Congolees (Democratische Republiek)" }
+  },
+  {
+    "name": "Cook Islands",
+    "alpha2": "CK",
+    "countryCode": "184",
+    "EER": false,
+    "nationality": { "dutch": "Nieuw-Zeelands (Cookeilanden)" }
+  },
+  {
+    "name": "Costa Rica",
+    "alpha2": "CR",
+    "countryCode": "188",
+    "EER": false,
+    "nationality": { "dutch": "Costa Ricaans" }
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "alpha2": "CI",
+    "countryCode": "384",
+    "EER": false,
+    "nationality": { "dutch": "Ivoriaans" }
+  },
+  {
+    "name": "Croatia",
+    "alpha2": "HR",
+    "countryCode": "191",
+    "EER": true,
+    "nationality": { "dutch": "Kroatisch" }
+  },
+  {
+    "name": "Cuba",
+    "alpha2": "CU",
+    "countryCode": "192",
+    "EER": false,
+    "nationality": { "dutch": "Cubaans" }
+  },
+  {
+    "name": "Curaçao",
+    "alpha2": "CW",
+    "countryCode": "531",
+    "EER": true,
+    "nationality": { "dutch": "Nederlands (Curaçao)" }
+  },
+  {
+    "name": "Cyprus",
+    "alpha2": "CY",
+    "countryCode": "196",
+    "EER": true,
+    "nationality": { "dutch": "Cyprisch" }
+  },
+  {
+    "name": "Czechia",
+    "alpha2": "CZ",
+    "countryCode": "203",
+    "EER": true,
+    "nationality": { "dutch": "Tsjechisch" }
+  },
+  {
+    "name": "Denmark",
+    "alpha2": "DK",
+    "countryCode": "208",
+    "EER": true,
+    "nationality": { "dutch": "Deens" }
+  },
+  {
+    "name": "Djibouti",
+    "alpha2": "DJ",
+    "countryCode": "262",
+    "EER": false,
+    "nationality": { "dutch": "Djiboutaans" }
+  },
+  {
+    "name": "Dominica",
+    "alpha2": "DM",
+    "countryCode": "212",
+    "EER": false,
+    "nationality": { "dutch": "Dominicaans (Dominica)" }
+  },
+  {
+    "name": "Dominican Republic",
+    "alpha2": "DO",
+    "countryCode": "214",
+    "EER": false,
+    "nationality": { "dutch": "Dominicaans (Dominicaanse Republiek)" }
+  },
+  {
+    "name": "Ecuador",
+    "alpha2": "EC",
+    "countryCode": "218",
+    "EER": false,
+    "nationality": { "dutch": "Ecuadoraans" }
+  },
+  {
+    "name": "Egypt",
+    "alpha2": "EG",
+    "countryCode": "818",
+    "EER": false,
+    "nationality": { "dutch": "Egyptisch" }
+  },
+  {
+    "name": "El Salvador",
+    "alpha2": "SV",
+    "countryCode": "222",
+    "EER": false,
+    "nationality": { "dutch": "Salvadoraans" }
+  },
+  {
+    "name": "Equatorial Guinea",
+    "alpha2": "GQ",
+    "countryCode": "226",
+    "EER": false,
+    "nationality": { "dutch": "Equatoriaal-Guinees" }
+  },
+  {
+    "name": "Eritrea",
+    "alpha2": "ER",
+    "countryCode": "232",
+    "EER": false,
+    "nationality": { "dutch": "Eritrees" }
+  },
+  {
+    "name": "Estonia",
+    "alpha2": "EE",
+    "countryCode": "233",
+    "EER": true,
+    "nationality": { "dutch": "Ests" }
+  },
+  {
+    "name": "Eswatini",
+    "alpha2": "SZ",
+    "countryCode": "748",
+    "EER": false,
+    "nationality": { "dutch": "Eswatinische" }
+  },
+  {
+    "name": "Ethiopia",
+    "alpha2": "ET",
+    "countryCode": "231",
+    "EER": false,
+    "nationality": { "dutch": "Ethiopisch" }
+  },
+  {
+    "name": "Falkland Islands (Malvinas)",
+    "alpha2": "FK",
+    "countryCode": "238",
+    "EER": false,
+    "nationality": { "dutch": "Brits overzees burger (Falklandeilanden)" }
+  },
+  {
+    "name": "Faroe Islands",
+    "alpha2": "FO",
+    "countryCode": "234",
+    "EER": false,
+    "nationality": { "dutch": "Deens (Faeröer eilanden)" }
+  },
+  {
+    "name": "Fiji",
+    "alpha2": "FJ",
+    "countryCode": "242",
+    "EER": false,
+    "nationality": { "dutch": "Fijisch" }
+  },
+  {
+    "name": "Finland",
+    "alpha2": "FI",
+    "countryCode": "246",
+    "EER": true,
+    "nationality": { "dutch": "Fins" }
+  },
+  {
+    "name": "France",
+    "alpha2": "FR",
+    "countryCode": "250",
+    "EER": true,
+    "nationality": { "dutch": "Frans" }
+  },
+  {
+    "name": "French Guiana",
+    "alpha2": "GF",
+    "countryCode": "254",
+    "EER": false,
+    "nationality": { "dutch": "Frans (Frans-Guyana)" }
+  },
+  {
+    "name": "French Polynesia",
+    "alpha2": "PF",
+    "countryCode": "258",
+    "EER": false,
+    "nationality": { "dutch": "Frans (Frans-Polynees)" }
+  },
+  {
+    "name": "French Southern Territories",
+    "alpha2": "TF",
+    "countryCode": "260",
+    "EER": false,
+    "nationality": {
+      "dutch": "Frans (Franse Zuidelijke en Antarctische Gebieden)"
+    }
+  },
+  {
+    "name": "Gabon",
+    "alpha2": "GA",
+    "countryCode": "266",
+    "EER": false,
+    "nationality": { "dutch": "Gabonees" }
+  },
+  {
+    "name": "Gambia",
+    "alpha2": "GM",
+    "countryCode": "270",
+    "EER": false,
+    "nationality": { "dutch": "Gambiaans" }
+  },
+  {
+    "name": "Georgia",
+    "alpha2": "GE",
+    "countryCode": "268",
+    "EER": false,
+    "nationality": { "dutch": "Georgisch" }
+  },
+  {
+    "name": "Germany",
+    "alpha2": "DE",
+    "countryCode": "276",
+    "EER": true,
+    "nationality": { "dutch": "Duits" }
+  },
+  {
+    "name": "Ghana",
+    "alpha2": "GH",
+    "countryCode": "288",
+    "EER": false,
+    "nationality": { "dutch": "Ghanees" }
+  },
+  {
+    "name": "Gibraltar",
+    "alpha2": "GI",
+    "countryCode": "292",
+    "EER": false,
+    "nationality": { "dutch": "Brits (Gibraltar)" }
+  },
+  {
+    "name": "Greece",
+    "alpha2": "GR",
+    "countryCode": "300",
+    "EER": true,
+    "nationality": { "dutch": "Grieks" }
+  },
+  {
+    "name": "Greenland",
+    "alpha2": "GL",
+    "countryCode": "304",
+    "EER": false,
+    "nationality": { "dutch": "Deens (Groenland)" }
+  },
+  {
+    "name": "Grenada",
+    "alpha2": "GD",
+    "countryCode": "308",
+    "EER": false,
+    "nationality": { "dutch": "Grenadaans" }
+  },
+  {
+    "name": "Guadeloupe",
+    "alpha2": "GP",
+    "countryCode": "312",
+    "EER": false,
+    "nationality": { "dutch": "Frans (Guadeloupe)" }
+  },
+  {
+    "name": "Guam",
+    "alpha2": "GU",
+    "countryCode": "316",
+    "EER": false,
+    "nationality": { "dutch": "Amerikaans (Guam)" }
+  },
+  {
+    "name": "Guatemala",
+    "alpha2": "GT",
+    "countryCode": "320",
+    "EER": false,
+    "nationality": { "dutch": "Guatemalteeks" }
+  },
+  {
+    "name": "Guernsey",
+    "alpha2": "GG",
+    "countryCode": "831",
+    "EER": false,
+    "nationality": { "dutch": "Brits (Guernsey)" }
+  },
+  {
+    "name": "Guinea",
+    "alpha2": "GN",
+    "countryCode": "324",
+    "EER": false,
+    "nationality": { "dutch": "Guinees" }
+  },
+  {
+    "name": "Guinea-Bissau",
+    "alpha2": "GW",
+    "countryCode": "624",
+    "EER": false,
+    "nationality": { "dutch": "Guinee-Bissaus" }
+  },
+  {
+    "name": "Guyana",
+    "alpha2": "GY",
+    "countryCode": "328",
+    "EER": false,
+    "nationality": { "dutch": "Guyaans" }
+  },
+  {
+    "name": "Haiti",
+    "alpha2": "HT",
+    "countryCode": "332",
+    "EER": false,
+    "nationality": { "dutch": "Haïtiaans" }
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "alpha2": "HM",
+    "countryCode": "334",
+    "EER": false,
+    "nationality": { "dutch": "Autralisch (Heardeiland en McDonaldeilanden" }
+  },
+  {
+    "name": "Holy See",
+    "alpha2": "VA",
+    "countryCode": "336",
+    "EER": false,
+    "nationality": { "dutch": "de Heilige stoel (Vaticaanstad)" }
+  },
+  {
+    "name": "Honduras",
+    "alpha2": "HN",
+    "countryCode": "340",
+    "EER": false,
+    "nationality": { "dutch": "Hondurees" }
+  },
+  {
+    "name": "Hong Kong",
+    "alpha2": "HK",
+    "countryCode": "344",
+    "EER": false,
+    "nationality": { "dutch": "Chinees (Hong Kong)" }
+  },
+  {
+    "name": "Hungary",
+    "alpha2": "HU",
+    "countryCode": "348",
+    "EER": true,
+    "nationality": { "dutch": "Hongaars" }
+  },
+  {
+    "name": "Iceland",
+    "alpha2": "IS",
+    "countryCode": "352",
+    "EER": true,
+    "nationality": { "dutch": "IJslands" }
+  },
+  {
+    "name": "India",
+    "alpha2": "IN",
+    "countryCode": "356",
+    "EER": false,
+    "nationality": { "dutch": "Indiaas" }
+  },
+  {
+    "name": "Indonesia",
+    "alpha2": "ID",
+    "countryCode": "360",
+    "EER": false,
+    "nationality": { "dutch": "Indonesisch" }
+  },
+  {
+    "name": "Iran (Islamic Republic of)",
+    "alpha2": "IR",
+    "countryCode": "364",
+    "EER": false,
+    "nationality": { "dutch": "Iraans" }
+  },
+  {
+    "name": "Iraq",
+    "alpha2": "IQ",
+    "countryCode": "368",
+    "EER": false,
+    "nationality": { "dutch": "Iraaks" }
+  },
+  {
+    "name": "Ireland",
+    "alpha2": "IE",
+    "countryCode": "372",
+    "EER": true,
+    "nationality": { "dutch": "Iers" }
+  },
+  {
+    "name": "Isle of Man",
+    "alpha2": "IM",
+    "countryCode": "833",
+    "EER": false,
+    "nationality": { "dutch": "Brits (Isle of Man)" }
+  },
+  {
+    "name": "Israel",
+    "alpha2": "IL",
+    "countryCode": "376",
+    "EER": false,
+    "nationality": { "dutch": "Israëlisch" }
+  },
+  {
+    "name": "Italy",
+    "alpha2": "IT",
+    "countryCode": "380",
+    "EER": true,
+    "nationality": { "dutch": "Italiaans" }
+  },
+  {
+    "name": "Jamaica",
+    "alpha2": "JM",
+    "countryCode": "388",
+    "EER": false,
+    "nationality": { "dutch": "Jamaicaans" }
+  },
+  {
+    "name": "Japan",
+    "alpha2": "JP",
+    "countryCode": "392",
+    "EER": false,
+    "nationality": { "dutch": "Japans" }
+  },
+  {
+    "name": "Jersey",
+    "alpha2": "JE",
+    "countryCode": "832",
+    "EER": false,
+    "nationality": { "dutch": "Brits (Jersey)" }
+  },
+  {
+    "name": "Jordan",
+    "alpha2": "JO",
+    "countryCode": "400",
+    "EER": false,
+    "nationality": { "dutch": "Jordaans" }
+  },
+  {
+    "name": "Kazakhstan",
+    "alpha2": "KZ",
+    "countryCode": "398",
+    "EER": false,
+    "nationality": { "dutch": "Kazaks" }
+  },
+  {
+    "name": "Kenya",
+    "alpha2": "KE",
+    "countryCode": "404",
+    "EER": false,
+    "nationality": { "dutch": "Keniaans" }
+  },
+  {
+    "name": "Kiribati",
+    "alpha2": "KI",
+    "countryCode": "296",
+    "EER": false,
+    "nationality": { "dutch": "Kiribatisch" }
+  },
+  {
+    "name": "Korea (Democratic People's Republic of)",
+    "alpha2": "KP",
+    "countryCode": "408",
+    "EER": false,
+    "nationality": { "dutch": "Noord-Koreeans" }
+  },
+  {
+    "name": "Korea, Republic of",
+    "alpha2": "KR",
+    "countryCode": "410",
+    "EER": false,
+    "nationality": { "dutch": "Zuid-Koreaans" }
+  },
+  {
+    "name": "Kuwait",
+    "alpha2": "KW",
+    "countryCode": "414",
+    "EER": false,
+    "nationality": { "dutch": "Koeweits" }
+  },
+  {
+    "name": "Kyrgyzstan",
+    "alpha2": "KG",
+    "countryCode": "417",
+    "EER": false,
+    "nationality": { "dutch": "Kyrgizisch" }
+  },
+  {
+    "name": "Lao People's Democratic Republic",
+    "alpha2": "LA",
+    "countryCode": "418",
+    "EER": false,
+    "nationality": { "dutch": "Laotiaans" }
+  },
+  {
+    "name": "Latvia",
+    "alpha2": "LV",
+    "countryCode": "428",
+    "EER": true,
+    "nationality": { "dutch": "Lets" }
+  },
+  {
+    "name": "Lebanon",
+    "alpha2": "LB",
+    "countryCode": "422",
+    "EER": false,
+    "nationality": { "dutch": "Libanees" }
+  },
+  {
+    "name": "Lesotho",
+    "alpha2": "LS",
+    "countryCode": "426",
+    "EER": false,
+    "nationality": { "dutch": "Lesothaans" }
+  },
+  {
+    "name": "Liberia",
+    "alpha2": "LR",
+    "countryCode": "430",
+    "EER": false,
+    "nationality": { "dutch": "Liberiaans" }
+  },
+  {
+    "name": "Libya",
+    "alpha2": "LY",
+    "countryCode": "434",
+    "EER": false,
+    "nationality": { "dutch": "Libisch" }
+  },
+  {
+    "name": "Liechtenstein",
+    "alpha2": "LI",
+    "countryCode": "438",
+    "EER": true,
+    "nationality": { "dutch": "Liechtensteins" }
+  },
+  {
+    "name": "Lithuania",
+    "alpha2": "LT",
+    "countryCode": "440",
+    "EER": true,
+    "nationality": { "dutch": "Litouws" }
+  },
+  {
+    "name": "Luxembourg",
+    "alpha2": "LU",
+    "countryCode": "442",
+    "EER": true,
+    "nationality": { "dutch": "Luxemburgs" }
+  },
+  {
+    "name": "Macao",
+    "alpha2": "MO",
+    "countryCode": "446",
+    "EER": false,
+    "nationality": { "dutch": "Chinees (Macao)" }
+  },
+  {
+    "name": "Madagascar",
+    "alpha2": "MG",
+    "countryCode": "450",
+    "EER": false,
+    "nationality": { "dutch": "Madagaskisch" }
+  },
+  {
+    "name": "Malawi",
+    "alpha2": "MW",
+    "countryCode": "454",
+    "EER": false,
+    "nationality": { "dutch": "Malawisch" }
+  },
+  {
+    "name": "Malaysia",
+    "alpha2": "MY",
+    "countryCode": "458",
+    "EER": false,
+    "nationality": { "dutch": "Maleisisch" }
+  },
+  {
+    "name": "Maldives",
+    "alpha2": "MV",
+    "countryCode": "462",
+    "EER": false,
+    "nationality": { "dutch": "Maledivisch" }
+  },
+  {
+    "name": "Mali",
+    "alpha2": "ML",
+    "countryCode": "466",
+    "EER": false,
+    "nationality": { "dutch": "Malinees" }
+  },
+  {
+    "name": "Malta",
+    "alpha2": "MT",
+    "countryCode": "470",
+    "EER": true,
+    "nationality": { "dutch": "Maltees" }
+  },
+  {
+    "name": "Marshall Islands",
+    "alpha2": "MH",
+    "countryCode": "584",
+    "EER": false,
+    "nationality": { "dutch": "Marshallees" }
+  },
+  {
+    "name": "Martinique",
+    "alpha2": "MQ",
+    "countryCode": "474",
+    "EER": false,
+    "nationality": { "dutch": "Frans (Martinique)" }
+  },
+  {
+    "name": "Mauritania",
+    "alpha2": "MR",
+    "countryCode": "478",
+    "EER": false,
+    "nationality": { "dutch": "Mauritaans" }
+  },
+  {
+    "name": "Mauritius",
+    "alpha2": "MU",
+    "countryCode": "480",
+    "EER": false,
+    "nationality": { "dutch": "Mauritiaans" }
+  },
+  {
+    "name": "Mayotte",
+    "alpha2": "YT",
+    "countryCode": "175",
+    "EER": false,
+    "nationality": { "dutch": "Frans (Mayotte)" }
+  },
+  {
+    "name": "Mexico",
+    "alpha2": "MX",
+    "countryCode": "484",
+    "EER": false,
+    "nationality": { "dutch": "Mexicaans" }
+  },
+  {
+    "name": "Micronesia (Federated States of)",
+    "alpha2": "FM",
+    "countryCode": "583",
+    "EER": false,
+    "nationality": { "dutch": "Micronesisch" }
+  },
+  {
+    "name": "Moldova, Republic of",
+    "alpha2": "MD",
+    "countryCode": "498",
+    "EER": false,
+    "nationality": { "dutch": "Moldavisch" }
+  },
+  {
+    "name": "Monaco",
+    "alpha2": "MC",
+    "countryCode": "492",
+    "EER": false,
+    "nationality": { "dutch": "Monegaskisch" }
+  },
+  {
+    "name": "Mongolia",
+    "alpha2": "MN",
+    "countryCode": "496",
+    "EER": false,
+    "nationality": { "dutch": "Mongools" }
+  },
+  {
+    "name": "Montenegro",
+    "alpha2": "ME",
+    "countryCode": "499",
+    "EER": false,
+    "nationality": { "dutch": "Montenegrijns" }
+  },
+  {
+    "name": "Montserrat",
+    "alpha2": "MS",
+    "countryCode": "500",
+    "EER": false,
+    "nationality": { "dutch": "Brits (Montserrat)" }
+  },
+  {
+    "name": "Morocco",
+    "alpha2": "MA",
+    "countryCode": "504",
+    "EER": false,
+    "nationality": { "dutch": "Marokkaans" }
+  },
+  {
+    "name": "Mozambique",
+    "alpha2": "MZ",
+    "countryCode": "508",
+    "EER": false,
+    "nationality": { "dutch": "Mozambikaans" }
+  },
+  {
+    "name": "Myanmar",
+    "alpha2": "MM",
+    "countryCode": "104",
+    "EER": false,
+    "nationality": { "dutch": "Myanmarees" }
+  },
+  {
+    "name": "Namibia",
+    "alpha2": "NA",
+    "countryCode": "516",
+    "EER": false,
+    "nationality": { "dutch": "Namibisch" }
+  },
+  {
+    "name": "Nauru",
+    "alpha2": "NR",
+    "countryCode": "520",
+    "EER": false,
+    "nationality": { "dutch": "Nauruaans" }
+  },
+  {
+    "name": "Nepal",
+    "alpha2": "NP",
+    "countryCode": "524",
+    "EER": false,
+    "nationality": { "dutch": "Nepalees" }
+  },
+  {
+    "name": "Netherlands",
+    "alpha2": "NL",
+    "countryCode": "528",
+    "EER": true,
+    "nationality": { "dutch": "Nederlands" }
+  },
+  {
+    "name": "New Caledonia",
+    "alpha2": "NC",
+    "countryCode": "540",
+    "EER": false,
+    "nationality": { "dutch": "Frans (New Caledonia)" }
+  },
+  {
+    "name": "New Zealand",
+    "alpha2": "NZ",
+    "countryCode": "554",
+    "EER": false,
+    "nationality": { "dutch": "Nieuw-Zeelands" }
+  },
+  {
+    "name": "Nicaragua",
+    "alpha2": "NI",
+    "countryCode": "558",
+    "EER": false,
+    "nationality": { "dutch": "Nicaraguaans" }
+  },
+  {
+    "name": "Niger",
+    "alpha2": "NE",
+    "countryCode": "562",
+    "EER": false,
+    "nationality": { "dutch": "Nigerees" }
+  },
+  {
+    "name": "Nigeria",
+    "alpha2": "NG",
+    "countryCode": "566",
+    "EER": false,
+    "nationality": { "dutch": "Nigeriaans" }
+  },
+  {
+    "name": "Niue",
+    "alpha2": "NU",
+    "countryCode": "570",
+    "EER": false,
+    "nationality": { "dutch": "Nieuw-Zeelands (Niue)" }
+  },
+  {
+    "name": "Norfolk Island",
+    "alpha2": "NF",
+    "countryCode": "574",
+    "EER": false,
+    "nationality": { "dutch": "Autralisch (Norfolk)" }
+  },
+  {
+    "name": "North Macedonia",
+    "alpha2": "MK",
+    "countryCode": "807",
+    "EER": false,
+    "nationality": { "dutch": "Noord-Macedonisch" }
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "alpha2": "MP",
+    "countryCode": "580",
+    "EER": false,
+    "nationality": { "dutch": "Amerikaans (Noordelijke Marianen)" }
+  },
+  {
+    "name": "Norway",
+    "alpha2": "NO",
+    "countryCode": "578",
+    "EER": true,
+    "nationality": { "dutch": "Noors" }
+  },
+  {
+    "name": "Oman",
+    "alpha2": "OM",
+    "countryCode": "512",
+    "EER": false,
+    "nationality": { "dutch": "Omanitisch" }
+  },
+  {
+    "name": "Pakistan",
+    "alpha2": "PK",
+    "countryCode": "586",
+    "EER": false,
+    "nationality": { "dutch": "Pakistaans" }
+  },
+  {
+    "name": "Palau",
+    "alpha2": "PW",
+    "countryCode": "585",
+    "EER": false,
+    "nationality": { "dutch": "Palaus" }
+  },
+  {
+    "name": "Palestine, State of",
+    "alpha2": "PS",
+    "countryCode": "275",
+    "EER": false,
+    "nationality": { "dutch": "Palestijns" }
+  },
+  {
+    "name": "Panama",
+    "alpha2": "PA",
+    "countryCode": "591",
+    "EER": false,
+    "nationality": { "dutch": "Panamees" }
+  },
+  {
+    "name": "Papua New Guinea",
+    "alpha2": "PG",
+    "countryCode": "598",
+    "EER": false,
+    "nationality": { "dutch": "Papuaans" }
+  },
+  {
+    "name": "Paraguay",
+    "alpha2": "PY",
+    "countryCode": "600",
+    "EER": false,
+    "nationality": { "dutch": "Paraguayaans" }
+  },
+  {
+    "name": "Peru",
+    "alpha2": "PE",
+    "countryCode": "604",
+    "EER": false,
+    "nationality": { "dutch": "Peruaans" }
+  },
+  {
+    "name": "Philippines",
+    "alpha2": "PH",
+    "countryCode": "608",
+    "EER": false,
+    "nationality": { "dutch": "Filippijns" }
+  },
+  {
+    "name": "Pitcairn",
+    "alpha2": "PN",
+    "countryCode": "612",
+    "EER": false,
+    "nationality": { "dutch": "Brits (Pitcairn)" }
+  },
+  {
+    "name": "Poland",
+    "alpha2": "PL",
+    "countryCode": "616",
+    "EER": true,
+    "nationality": { "dutch": "Pools" }
+  },
+  {
+    "name": "Portugal",
+    "alpha2": "PT",
+    "countryCode": "620",
+    "EER": true,
+    "nationality": { "dutch": "Portugees" }
+  },
+  {
+    "name": "Puerto Rico",
+    "alpha2": "PR",
+    "countryCode": "630",
+    "EER": false,
+    "nationality": { "dutch": "Amerikaans (Puerto Rico)" }
+  },
+  {
+    "name": "Qatar",
+    "alpha2": "QA",
+    "countryCode": "634",
+    "EER": false,
+    "nationality": { "dutch": "Katarees" }
+  },
+  {
+    "name": "Réunion",
+    "alpha2": "RE",
+    "countryCode": "638",
+    "EER": false,
+    "nationality": { "dutch": "Frans (Réunion)" }
+  },
+  {
+    "name": "Romania",
+    "alpha2": "RO",
+    "countryCode": "642",
+    "EER": true,
+    "nationality": { "dutch": "Roemeens" }
+  },
+  {
+    "name": "Russian Federation",
+    "alpha2": "RU",
+    "countryCode": "643",
+    "EER": false,
+    "nationality": { "dutch": "Russisch" }
+  },
+  {
+    "name": "Rwanda",
+    "alpha2": "RW",
+    "countryCode": "646",
+    "EER": false,
+    "nationality": { "dutch": "Rwandees" }
+  },
+  {
+    "name": "Saint Barthélemy",
+    "alpha2": "BL",
+    "countryCode": "652",
+    "EER": false,
+    "nationality": { "dutch": "Frans (Saint-Barthélemy)" }
+  },
+  {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "alpha2": "SH",
+    "countryCode": "654",
+    "EER": false,
+    "nationality": {
+      "dutch": "Brits (Sint-Helena, Ascension en Tristan da Cunha)"
+    }
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "alpha2": "KN",
+    "countryCode": "659",
+    "EER": false,
+    "nationality": { "dutch": "Sint Kittiaans en Nevisaans" }
+  },
+  {
+    "name": "Saint Lucia",
+    "alpha2": "LC",
+    "countryCode": "662",
+    "EER": false,
+    "nationality": { "dutch": "Sint Luciaans" }
+  },
+  {
+    "name": "Saint Martin (French part)",
+    "alpha2": "MF",
+    "countryCode": "663",
+    "EER": false,
+    "nationality": { "dutch": "Frans (Saint-Martin)" }
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "alpha2": "PM",
+    "countryCode": "666",
+    "EER": false,
+    "nationality": { "dutch": "Frans (Saint-Pierre en Miquelon)" }
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "alpha2": "VC",
+    "countryCode": "670",
+    "EER": false,
+    "nationality": { "dutch": "Sint Vincents" }
+  },
+  {
+    "name": "Samoa",
+    "alpha2": "WS",
+    "countryCode": "882",
+    "EER": false,
+    "nationality": { "dutch": "Samoaans" }
+  },
+  {
+    "name": "San Marino",
+    "alpha2": "SM",
+    "countryCode": "674",
+    "EER": false,
+    "nationality": { "dutch": "San Marinees" }
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "alpha2": "ST",
+    "countryCode": "678",
+    "EER": false,
+    "nationality": { "dutch": "Sao Tomeaans en Principaans" }
+  },
+  {
+    "name": "Saudi Arabia",
+    "alpha2": "SA",
+    "countryCode": "682",
+    "EER": false,
+    "nationality": { "dutch": "Saoedi-Arabisch" }
+  },
+  {
+    "name": "Senegal",
+    "alpha2": "SN",
+    "countryCode": "686",
+    "EER": false,
+    "nationality": { "dutch": "Senegalees" }
+  },
+  {
+    "name": "Serbia",
+    "alpha2": "RS",
+    "countryCode": "688",
+    "EER": false,
+    "nationality": { "dutch": "Servisch" }
+  },
+  {
+    "name": "Seychelles",
+    "alpha2": "SC",
+    "countryCode": "690",
+    "EER": false,
+    "nationality": { "dutch": "Sechels" }
+  },
+  {
+    "name": "Sierra Leone",
+    "alpha2": "SL",
+    "countryCode": "694",
+    "EER": false,
+    "nationality": { "dutch": "Sierra Leoons" }
+  },
+  {
+    "name": "Singapore",
+    "alpha2": "SG",
+    "countryCode": "702",
+    "EER": false,
+    "nationality": { "dutch": "Singaporees" }
+  },
+  {
+    "name": "Sint Maarten (Dutch part)",
+    "alpha2": "SX",
+    "countryCode": "534",
+    "EER": false,
+    "nationality": { "dutch": "Nederlands (Sint Maarten)" }
+  },
+  {
+    "name": "Slovakia",
+    "alpha2": "SK",
+    "countryCode": "703",
+    "EER": true,
+    "nationality": { "dutch": "Slowaaks" }
+  },
+  {
+    "name": "Slovenia",
+    "alpha2": "SI",
+    "countryCode": "705",
+    "EER": false,
+    "nationality": { "dutch": "Sloveens" }
+  },
+  {
+    "name": "Solomon Islands",
+    "alpha2": "SB",
+    "countryCode": "090",
+    "EER": false,
+    "nationality": { "dutch": "Solomons" }
+  },
+  {
+    "name": "Somalia",
+    "alpha2": "SO",
+    "countryCode": "706",
+    "EER": false,
+    "nationality": { "dutch": "Somalisch" }
+  },
+  {
+    "name": "South Africa",
+    "alpha2": "ZA",
+    "countryCode": "710",
+    "EER": false,
+    "nationality": { "dutch": "Zuid-Afrikaans" }
+  },
+  {
+    "name": "South Georgia and the South Sandwich Islands",
+    "alpha2": "GS",
+    "countryCode": "239",
+    "EER": false,
+    "nationality": {
+      "dutch": "Brits (Zuid-Georgia en de Zuidelijke Sandwicheilanden)"
+    }
+  },
+  {
+    "name": "South Sudan",
+    "alpha2": "SS",
+    "countryCode": "728",
+    "EER": false,
+    "nationality": { "dutch": "Zuidsoedanese" }
+  },
+  {
+    "name": "Spain",
+    "alpha2": "ES",
+    "countryCode": "724",
+    "EER": true,
+    "nationality": { "dutch": "Spaans" }
+  },
+  {
+    "name": "Sri Lanka",
+    "alpha2": "LK",
+    "countryCode": "144",
+    "EER": false,
+    "nationality": { "dutch": "Sri Lankaans" }
+  },
+  {
+    "name": "Sudan",
+    "alpha2": "SD",
+    "countryCode": "729",
+    "EER": false,
+    "nationality": { "dutch": "Soedanees" }
+  },
+  {
+    "name": "Suriname",
+    "alpha2": "SR",
+    "countryCode": "740",
+    "EER": true,
+    "nationality": { "dutch": "Surinaams" }
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "alpha2": "SJ",
+    "countryCode": "744",
+    "EER": true,
+    "nationality": { "dutch": "Noors (Spitsbergen en Jan Mayen)" }
+  },
+  {
+    "name": "Sweden",
+    "alpha2": "SE",
+    "countryCode": "752",
+    "EER": true,
+    "nationality": { "dutch": "Zweeds" }
+  },
+  {
+    "name": "Switzerland",
+    "alpha2": "CH",
+    "countryCode": "756",
+    "EER": true,
+    "nationality": { "dutch": "Zwitsers" }
+  },
+  {
+    "name": "Syrian Arab Republic",
+    "alpha2": "SY",
+    "countryCode": "760",
+    "EER": false,
+    "nationality": { "dutch": "Syrisch" }
+  },
+  {
+    "name": "Taiwan, Province of China",
+    "alpha2": "TW",
+    "countryCode": "158",
+    "EER": false,
+    "nationality": { "dutch": "Taiwanees" }
+  },
+  {
+    "name": "Tajikistan",
+    "alpha2": "TJ",
+    "countryCode": "762",
+    "EER": false,
+    "nationality": { "dutch": "Tadzjikistaans" }
+  },
+  {
+    "name": "Tanzania, United Republic of",
+    "alpha2": "TZ",
+    "countryCode": "834",
+    "EER": false,
+    "nationality": { "dutch": "Tanzaniaans" }
+  },
+  {
+    "name": "Thailand",
+    "alpha2": "TH",
+    "countryCode": "764",
+    "EER": false,
+    "nationality": { "dutch": "Thais" }
+  },
+  {
+    "name": "Timor-Leste",
+    "alpha2": "TL",
+    "countryCode": "626",
+    "EER": false,
+    "nationality": { "dutch": "Oost-Timors" }
+  },
+  {
+    "name": "Togo",
+    "alpha2": "TG",
+    "countryCode": "768",
+    "EER": false,
+    "nationality": { "dutch": "Togolees" }
+  },
+  {
+    "name": "Tokelau",
+    "alpha2": "TK",
+    "countryCode": "772",
+    "EER": false,
+    "nationality": { "dutch": "Nieuw-Zeelands (Tokelau)" }
+  },
+  {
+    "name": "Tonga",
+    "alpha2": "TO",
+    "countryCode": "776",
+    "EER": false,
+    "nationality": { "dutch": "Tongaans" }
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "alpha2": "TT",
+    "countryCode": "780",
+    "EER": false,
+    "nationality": { "dutch": "Trinidadiaans" }
+  },
+  {
+    "name": "Tunisia",
+    "alpha2": "TN",
+    "countryCode": "788",
+    "EER": false,
+    "nationality": { "dutch": "Tunesisch" }
+  },
+  {
+    "name": "Turkey",
+    "alpha2": "TR",
+    "countryCode": "792",
+    "EER": false,
+    "nationality": { "dutch": "Turks" }
+  },
+  {
+    "name": "Turkmenistan",
+    "alpha2": "TM",
+    "countryCode": "795",
+    "EER": false,
+    "nationality": { "dutch": "Turkmeens" }
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "alpha2": "TC",
+    "countryCode": "796",
+    "EER": false,
+    "nationality": { "dutch": "Brits (Turks- en Caicoseilanden)" }
+  },
+  {
+    "name": "Tuvalu",
+    "alpha2": "TV",
+    "countryCode": "798",
+    "EER": false,
+    "nationality": { "dutch": "Tuvaluaans" }
+  },
+  {
+    "name": "Uganda",
+    "alpha2": "UG",
+    "countryCode": "800",
+    "EER": false,
+    "nationality": { "dutch": "Ugandees" }
+  },
+  {
+    "name": "Ukraine",
+    "alpha2": "UA",
+    "countryCode": "804",
+    "EER": false,
+    "nationality": { "dutch": "Oekraïens" }
+  },
+  {
+    "name": "United Arab Emirates",
+    "alpha2": "AE",
+    "countryCode": "784",
+    "EER": false,
+    "nationality": { "dutch": "Emirati" }
+  },
+  {
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "alpha2": "GB",
+    "countryCode": "826",
+    "EER": false,
+    "nationality": { "dutch": "Brits" }
+  },
+  {
+    "name": "United States of America",
+    "alpha2": "US",
+    "countryCode": "840",
+    "EER": false,
+    "nationality": { "dutch": "Amerikaans" }
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "alpha2": "UM",
+    "countryCode": "581",
+    "EER": false,
+    "nationality": { "dutch": "Amerikaans (Minor Outlying Islands)" }
+  },
+  {
+    "name": "Uruguay",
+    "alpha2": "UY",
+    "countryCode": "858",
+    "EER": false,
+    "nationality": { "dutch": "Uruguayaans" }
+  },
+  {
+    "name": "Uzbekistan",
+    "alpha2": "UZ",
+    "countryCode": "860",
+    "EER": false,
+    "nationality": { "dutch": "Oezbeeks" }
+  },
+  {
+    "name": "Vanuatu",
+    "alpha2": "VU",
+    "countryCode": "548",
+    "EER": false,
+    "nationality": { "dutch": "Vanuataans" }
+  },
+  {
+    "name": "Venezuela (Bolivarian Republic of)",
+    "alpha2": "VE",
+    "countryCode": "862",
+    "EER": false,
+    "nationality": { "dutch": "Venezolaans" }
+  },
+  {
+    "name": "Viet Nam",
+    "alpha2": "VN",
+    "countryCode": "704",
+    "EER": false,
+    "nationality": { "dutch": "Vietnamees" }
+  },
+  {
+    "name": "Virgin Islands (British)",
+    "alpha2": "VG",
+    "countryCode": "092",
+    "EER": false,
+    "nationality": { "dutch": "Brits (Maagdeneilanden)" }
+  },
+  {
+    "name": "Virgin Islands (U.S.)",
+    "alpha2": "VI",
+    "countryCode": "850",
+    "EER": false,
+    "nationality": { "dutch": "Amerikaans (Maagdeneilanden)" }
+  },
+  {
+    "name": "Wallis and Futuna",
+    "alpha2": "WF",
+    "countryCode": "876",
+    "EER": false,
+    "nationality": { "dutch": "Frans (Wallis en Futuna)" }
+  },
+  {
+    "name": "Western Sahara",
+    "alpha2": "EH",
+    "countryCode": "732",
+    "EER": false,
+    "nationality": { "dutch": "Sahrawiaans" }
+  },
+  {
+    "name": "Yemen",
+    "alpha2": "YE",
+    "countryCode": "887",
+    "EER": false,
+    "nationality": { "dutch": "Jemenitisch" }
+  },
+  {
+    "name": "Zambia",
+    "alpha2": "ZM",
+    "countryCode": "894",
+    "EER": false,
+    "nationality": { "dutch": "Zambiaans" }
+  },
+  {
+    "name": "Zimbabwe",
+    "alpha2": "ZW",
+    "countryCode": "716",
+    "EER": false,
+    "nationality": { "dutch": "Zimbabwaans" }
+  }
+]
