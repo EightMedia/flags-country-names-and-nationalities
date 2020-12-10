@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#198A00;}
-	.st1{fill:#EF7D00;}
-	.st2{fill:#DE2010;}
-</style>
-<rect y="88" class="st0" width="512" height="336"/>
-<g id="crest">
-	<rect x="455.1" y="253" class="st1" width="56.9" height="171"/>
-	<rect x="398.2" y="253" width="56.9" height="171"/>
-	<rect x="341.3" y="253" class="st2" width="56.9" height="171"/>
-	<path id="Path" class="st1" d="M490.7,192.5h-48c0-8.8-7.2-16-16-16s-16,7.2-16,16h-48c0,8.8,7.7,16,16.5,16h-0.5
-		c0,8.8,7.2,16,16,16c0,8.8,7.2,16,16,16h32c8.8,0,16-7.2,16-16c8.8,0,16-7.2,16-16h-0.5C483,208.5,490.7,201.3,490.7,192.5z"/>
-</g>
-</svg>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 512 512" xml:space="preserve"><style>.st1{fill:#ef7d00}</style><path fill="#198a00" d="M0 88h512v336H0z"/><g id="crest"><path class="st1" d="M455.1 253H512v171h-56.9z"/><path d="M398.2 253h56.9v171h-56.9z"/><path fill="#de2010" d="M341.3 253h56.9v171h-56.9z"/><path id="Path" class="st1" d="M490.7 192.5h-48c0-8.8-7.2-16-16-16s-16 7.2-16 16h-48c0 8.8 7.7 16 16.5 16h-.5c0 8.8 7.2 16 16 16 0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16 8.8 0 16-7.2 16-16h-.5c8.8 0 16.5-7.2 16.5-16z"/></g></svg>

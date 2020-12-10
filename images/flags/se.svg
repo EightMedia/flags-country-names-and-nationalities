@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#006AA7;}
-	.st1{fill:#FECC00;}
-</style>
-<rect y="88" class="st0" width="158.9" height="141.5"/>
-<rect y="282.5" class="st0" width="158.9" height="141.5"/>
-<rect x="211.9" y="88" class="st0" width="300.1" height="141.5"/>
-<rect x="211.9" y="282.5" class="st0" width="300.1" height="141.5"/>
-<polygon class="st1" points="512,229.5 211.9,229.5 211.9,88 158.9,88 158.9,229.5 0,229.5 0,282.5 158.9,282.5 158.9,424 
-	211.9,424 211.9,282.5 512,282.5 "/>
-</svg>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 512 512" xml:space="preserve"><style>.st0{fill:#006aa7}</style><path class="st0" d="M0 88h158.9v141.5H0zM0 282.5h158.9V424H0zM211.9 88H512v141.5H211.9zM211.9 282.5H512V424H211.9z"/><path fill="#fecc00" d="M512 229.5H211.9V88h-53v141.5H0v53h158.9V424h53V282.5H512z"/></svg>
