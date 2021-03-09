@@ -1492,6 +1492,12 @@
         "alpha2": "ZW",
         "countryCode": "716",
         "nationality": {"dutch": "Zimbabwaans"
+    }},
+    {
+        "name": "Stateless",
+        "alpha2": "XX",
+        "countryCode": "",
+        "nationality": {"dutch": "Stateloos"
     }}
  
         ]
