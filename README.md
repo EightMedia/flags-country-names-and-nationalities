@@ -17,7 +17,8 @@ All flags, countries they belong to and what the nationality is called in:
 
 ## Resources
 ### Countries
-Countrylist based on [ISO 3166](https://www.iso.org/iso-3166-country-codes.html)
+Countrylist based on [ISO 3166](https://www.iso.org/iso-3166-country-codes.html) and [UNSD M49](https://unstats.un.org/unsd/methodology/m49/)
+
 
 ### Nationalities
 * [Dutch](https://publicaties.rvig.nl/Landelijke_tabellen)
